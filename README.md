@@ -6,10 +6,16 @@ This Version contain scientific binomen of Moths (Order: Lepidoptera) found in K
 
 This is a preliminary verstion of moths of kerala data and we are trying to add more attributes. Issues/Updates with the dataset can be reported at https://github.com/kerala-biodiversity/kerala-moths-data
 
-## Contributors 
+## Introduction
 
 ## Taxonomy 
 
+## Data Structure 
+
+## Workflow
+
 ## License 
+
+## Contributors 
 
 ## Community
