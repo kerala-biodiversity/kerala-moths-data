@@ -1,681 +1,681 @@
-serial_number,species_name
-1,Micronia aculeata
-2,Nepita conferta
-3,Dysphania percota
-4,Spoladea recurvalis
-5,Syntomoides imaon
-6,Euchromia polymena
-7,Erebus hieroglyphica
-8,Erebus ephesperis
-9,Amata passalis
-10,Eurrhyparodes bracteolalis
-11,Eumelea ludovicata
-12,Asota caricae
-13,Xanthodes transversa
-14,Mocis undata
-15,Pergesa acteus
-16,Hyposidra talaca
-17,Eudocima materna
-18,Polytela gloriosae
-19,Diaphania indica
-20,Pangora matherana
-21,Episteme maculatrix
-22,Scopula opicata
-23,Attacus taprobanis
-24,Nyctemera coleta
-25,Macrobrochis gigas
-26,Eligma narcissus
-27,Daphnis nerii
-28,Parapoynx stagnalis
-29,Eudocima homaena
-30,Cnaphalocrocis poeyalis
-31,Bocchoris inspersalis
-32,Glyphodes bicolor
-33,Spodoptera litura
-34,Sameodes cancellalis
-35,Erebus macrops
-36,Creatonotos transiens
-37,Aethaloessa calidalis
-38,Thyas coronata
-39,Tetragonus catamitus
-40,Mocis frugalis
-41,Pareuchaetes pseudoinsulata
-42,Ammatho cuneonotatus
-43,Trabala vishnou
-44,Theretra lucasii
-45,Metoeca foedalis
-46,Episteme adulatrix
-47,Hulodes caranea
-48,Haritalodes derogata
-49,Eudocima hypermnestra
-50,Phalacra vidhisara
-51,Cyana peregrina
-52,Agathia laetata
-53,Actias selene
-54,Glyphodes caesalis
-55,Theretra nessus
-56,Chiasmia nora
-57,Chalciope mygdon
-58,Lymantria ampla
-59,Cyclothea disjuncta
-60,Theretra silhetensis
-61,Maruca vitrata
-62,Glyphodes bivitralis
-63,Ganisa postica
-64,Trigonodes hyppasia
-65,Cnaphalocrocis medinalis
-66,Borbacha pardaria
-67,Anomis flava
-68,Tricyanaula aurantiaca
-69,Syngamia latimarginalis
-70,Oraesia emarginata
-71,Nausinoe perspectata
-72,Ercheia cyllaria
-73,Bastilla joviana
-74,Anticarsia irrorata
-75,Acherontia lachesis
-76,Pseudomicronia advocataria
-77,Parapoynx fluctuosalis
-78,Cyclosia latipennis
-79,Artena submira
-80,Zurobata vacillans
-81,Striglina scitaria
-82,Scopula addictaria
-83,Ravanoa xiphialis
-84,Pygospila tyres
-85,Progonia oileusalis
-86,Olene mendosa
-87,Naxa textilis
-88,Nausinoe geometralis
-89,Maliattha separata
-90,Ischyja marapok
-91,Hyperythra lutea
-92,Hydriris ornatalis
-93,Curoba sangarida
-94,Artena dotata
-95,Agathia hemithearia
-96,Achaea janata
-97,Pyrausta phoenicealis
-98,Pyralis manihotalis
-99,Petelia medardaria
-100,Nymphicula trimacula
-101,Hippotion rosetta
-102,Chiasmia emersaria
-103,Anisephyra ocularia
-104,Xanthorhoe saturata
-105,Parapholodes fuliginea
-106,Orvasca subnotata
-107,Nacoleia charesalis
-108,Mangina argus
-109,Leucania yu
-110,Eudocima phalonia
-111,Erebus caprimulgus
-112,Cyana puella
-113,Bocana manifestalis
-114,Bastilla simillima
-115,Bastilla crameri
-116,Asota plana
-117,Asota canaraica
-118,Aporandria specularia
-119,Traminda aventiaria
-120,Scopula fibulata
-121,Nyctemera lacticinia
-122,Miresa argentifera
-123,Marumba dyras
-124,Hymenia perspectalis
-125,Eumelea rosalia
-126,Endotricha mesenterialis
-127,Egnasia ephyrodalis
-128,Earias cupreoviridis
-129,Brunia antica
-130,Rajendra biguttata
-131,Poliobotys ablactalis
-132,Pharambara splendida
-133,Omiodes diemenalis
-134,Nodaria externalis
-135,Eudocima cajeta
-136,Dysgonia stuposa
-137,Cyclodes omma
-138,Comostola laesaria
-139,Biston suppressaria
-140,Bastilla fulvotaenia
-141,Amata cyssea
-142,Sphrageidus similis
-143,Scopula emissaria
-144,Patania iopasalis
-145,Omiodes indicata
-146,Maliattha signifera
-147,Leucinodes orbonalis
-148,Hippotion celerio
-149,Gesonia obeditalis
-150,Filodes fulvidorsalis
-151,Eupanacra busiris
-152,Endocrossis flavibasalis
-153,Buzara onelia
-154,Ataboruza divisa
-155,Artaxa guttata
-156,Agrioglypta itysalis
-157,Traminda mundissima
-158,Tatobotys biannulalis
-159,Sympis rufibasis
-160,Pseudoblabes oophora
-161,Pelagodes antiquadraria
-162,Orudiza protheclaria
-163,Olepa ricini
-164,Oeonistis entella
-165,Idaea gemmaria
-166,Hyblaea puera
-167,Eretmocera impactella
-168,Eressa confinis
-169,Ectropis bhurmitra
-170,Dierna patibulum
-171,Diduga flavicostata
-172,Asota plaginota
-173,Asota heliconia
-174,Argina astrea
-175,Amplypterus panopus
-176,Aloa lactinea
-177,Agrius convolvuli
-178,Agathodes ostentalis
-179,Aetholix flavibasalis
-180,Trilocha varians
-181,Theretra lycetus
-182,Talanga sexpunctalis
-183,Sphenarches anisodactylus
-184,Scirpophaga incertulas
-185,Pingasa chlora
-186,Perina nuda
-187,Parasa lepida
-188,Paliga machoeralis
-189,Notarcha aurolinealis
-190,Nevrina procopia
-191,Miresa pyronota
-192,Hypomecis transcissa
-193,Hypomecis lioptilaria
-194,Hydrillodes lentalis
-195,Hemithea tritonaria
-196,Helicoverpa armigera
-197,Glyphodes onychinalis
-198,Eurrhyparodes tricoloralis
-199,Eterusia aedea
-200,Erygia spissa
-201,Enispa elataria
-202,Endoclita malabaricus
-203,Dyrzela plagiata
-204,Dichromia sagitta
-205,Cyclidia dictyaria
-206,Conogethes punctiferalis
-207,Chlumetia transversa
-208,Calliteara grotei
-209,Antitrygodes divisaria
-210,Antheraea paphia
-211,Amerila astreus
-212,Agathia hilarata
-213,Achrosis rondelaria
-214,Acherontia styx
-215,Xanthodes intersepta
-216,Xanthodes albago
-217,Utetheisa lotrix
-218,Trigonodes cephise
-219,Theretra oldenlandiae
-220,Terastia egialealis
-221,Synclera traducalis
-222,Symmoracma minoralis
-223,Scopula pulchellata
-224,Scopula annularia
-225,Sarobela litterata
-226,Psilogramma vates
-227,Patissa fulvosparsa
-228,Parotis marginata
-229,Parasa hilaris
-230,Ophiusa tirhaca
-231,Nygmia icilia
-232,Nudaria diaphanella
-233,Notarcha tigrina
-234,Nola lucidalis
-235,Mecodina praecipua
-236,Marumba nympha
-237,Maliattha lativitta
-238,Lymantria marginata
-239,Lygniodes vampyrus
-240,Hypertrocta posticalis
-241,Hypena obacerralis
-242,Heortia vitessoides
-243,Hemonia orbiferana
-244,Grammodes stolida
-245,Glyphodes canthusalis
-246,Falana sordida
-247,Eustrotia marginata
-248,Eublemma accedens
-249,Elophila scitalis
-250,Cyclosia papilionaris
-251,Cricula trifenestrata
-252,Chiasmia eleonora
-253,Chabula acamasalis
-254,Cerynea punctilinealis
-255,Calesia fuscicorpus
-256,Bradina admixtalis
-257,Botyodes diniasalis
-258,Bertula abjudicalis
-259,Bastilla arcuata
-260,Atteva fabriciella
-261,Angonyx krishna
-262,Anadevidia peponis
-263,Alcis nilgirica
-264,Utetheisa pulchelloides
-265,Trischalis subaurana
-266,Thyas honesta
-267,Theretra clotho
-268,Synegia conflagrata
-269,Spodoptera mauritia
-270,Scopula modesta
-271,Scopula adeptaria
-272,Rhombophylla edentata
-273,Rhimphalea ochalis
-274,Pygospila costiflexalis
-275,Psilogramma increta
-276,Prophantis adusta
-277,Progonia kurosawai
-278,Pericyma cruegeri
-279,Parapoynx villidalis
-280,Pangora erosa
-281,Pagyda salvalis
-282,Ourapteryx marginata
-283,Orgyia postica
-284,Neocerura liturata
-285,Macaldenia palumba
-286,Mabra eryxalis
-287,Lopharthrum comprimens
-288,Loepa schintlmeisteri
-289,Lamprosema tampiusalis
-290,Hypomecis separata
-291,Hypolamprus ypsilon
-292,Hypochrosis hyadaria
-293,Herpetogramma rudis
-294,Glycythyma chrysorycta
-295,Eublemma olivacea
-296,Eublemma brachygonia
-297,Eublemma abrupta
-298,Ericeia inangulata
-299,Dysphania nelera
-300,Dichocrocis rigidalis
-301,Diacrotricha fasciola
-302,Cyclosiella dulcicula
-303,Cyana guttifera
-304,Cusiala raptaria
-305,Cusiala boarmoides
-306,Comostola pyrrhogona
-307,Cnaphalocrocis trebiusalis
-308,Cleora alienaria
-309,Chrysodeixis eriosoma
-310,Chrysocraspeda faganaria
-311,Chorsia albiscripta
-312,Chiasmia pluviata
-313,Chiasmia normata
-314,Callidrepana patrana
-315,Bastilla amygdalis
-316,Aroa plana
-317,Antheua servula
-318,Amata bicincta
-319,Agathia lycaenaria
-320,Acosmeryx anceus
-321,Achaea serva
-322,Abraxas poliaria
-323,Yepcalphis dilectissima
-324,Xyleutes strix
-325,Xyleutes persona
-326,Ulopeza idyalis
-327,Tyspanodes linealis
-328,Trypanophora semihyalina
-329,Trigonodes disjuncta
-330,Tiracola plagiata
-331,Tinolius eburneigutta
-332,Timandra ruptilinea
-333,Thalathoides curtalis
-334,Stauropus alternus
-335,Spilosoma obliqua
-336,Speiredonia obscura
-337,Somena scintillans
-338,Somatina purpurascens
-339,Somatina omicraria
-340,Simplicia cornicalis
-341,Simplicia bimarginata
-342,Scopula butleri
-343,Rivula cognata
-344,Rehimena phrynealis
-345,Pycnarmon cribrata
-346,Pycnarmon alboflavalis
-347,Ptychopseustis plumbeolinealis
-348,Ptisciana seminivea
-349,Pterocyclophora pictimargo
-350,Pseudocatharylla nigrociliella
-351,Problepsis vulgaris
-352,Pomasia sparsata
-353,Phyllodes consobrina
-354,Palpita vitrealis
-355,Padenia transversa
-356,Pachynoa xanthochyta
-357,Omiodes analis
-358,Olepa ocellifera
-359,Noorda blitealis
-360,Miltochrista arcuata
-361,Mecodina albodentata
-362,Mecodina agrestis
-363,Macroglossum gyrans
-364,Lysimelia alstoni
-365,Lophophleps purpurea
-366,Lissoblemma lunuliferata
-367,Lebeda nobilis
-368,Labdia semicoccinea
-369,Ischnurges gratiosalis
-370,Idaea costiguttata
-371,Idaea amplipennis
-372,Hypena laceratalis
-373,Horisme leprosa
-374,Hodebertia testalis
-375,Histia flabellicornis
-376,Hipoepa biasalis
-377,Herpetogramma phaeopteralis
-378,Herpetogramma bipunctalis
-379,Hendecasis duplifascialis
-380,Gonodontis clelia
-381,Gabala polyspilalis
-382,Eupterote undata
-383,Eupterote fabia
-384,Eupterote bifasciata
-385,Eublemma roseana
-386,Episothalma robustaria
-387,Epiplema fulvilinea
-388,Entomogramma fautrix
-389,Elophila difflualis
-390,Dysphania palmyra
-391,Dysallacta negatalis
-392,Dysaethria quadricaudata
-393,Dolbina manjunatha
-394,Diomea lignicolora
-395,Dichromia pullata
-396,Dichromia laesalis
-397,Cyana linatula
-398,Cyana bhatejai
-399,Ctenoplusia albostriata
-400,Creatonotos gangis
-401,Corymica deducta
-402,Comibaena cassidara
-403,Cnaphalocrocis patnalis
-404,Cirrhochrista fumipalpis
-405,Cirrhochrista brizoalis
-406,Chrysocraspeda abhadraca
-407,Chlorozancla falcatus
-408,Chiasmia perfusaria
-409,Cephonodes hylas
-410,Casama vilis
-411,Calonola ectrocta
-412,Callopistria rivularis
-413,Callopistria minor
-414,Britha biguttata
-415,Botyodes asialis
-416,Bacotoma violata
-417,Avatha bubo
-418,Astygisa vexillaria
-419,Asota producta
-420,Arsacia rectalis
-421,Arippara indicator
-422,Argyrocosma inductaria
-423,Amyna stricta
-424,Amblychia hymenaria
-425,Amata elongata
-426,Altha subnotata
-427,Almonia truncatalis
-428,Aegocera venulia
-429,Adites pseudohilaris
-430,Actias keralana
-431,Acropteris striataria
-432,Zitha torridalis
-433,Zitha tactilis
-434,Ziridava xylinaria
-435,Zamarada excisa
-436,Xenotrachea albidisca
-437,Volobilis chloropterella
-438,Vitessa suradeva
-439,Uresiphita gilvata
-440,Tonica niviferana
-441,Timandra convectaria
-442,Thysanoplusia orichalcea
-443,Thysanoidma octalis
-444,Theretra alecto
-445,Tephriopis divulsa
-446,Tarsolepis rufobrunnea
-447,Targalla albiceps
-448,Tabidia aculealis
-449,Syngamia falsidicalis
-450,Symmacra solidaria
-451,Syllepte sellalis
-452,Syllepte abyssalis
-453,Suana concolor
-454,Stauropus thiaucourti
-455,Stauropus fagi
-456,Spilosoma lutea
-457,Sphragifera rejecta
-458,Sphenarches zanclistes
-459,Speiredonia mutabilis
-460,Spaniocentra pannosa
-461,Sommeria insulana
-462,Somatina anthophilata
-463,Serrodes partita
-464,Selepa celtis
-465,Secusio strigata
-466,Scopula deliciosaria
-467,Savara pallidapex
-468,Sauris malaca
-469,Sangatissa subcurvifera
-470,Ruttellerona pseudocessaria
-471,Ruttellerona cessaria
-472,Rusicada combinans
-473,Rosama auritracta
-474,Risoba repugnans
-475,Rhombophylla rectimarginata
-476,Ramadasa pavo
-477,Rajendra perrottetii
-478,Racotis keralaria
-479,Pyralis pictalis
-480,Psilalcis breta
-481,Psilalcis bisinuata
-482,Protuliocnemis biplagiata
-483,Polynesia sunandava
-484,Polydesma boarmoides
-485,Plecoptera quaesita
-486,Platyja ciacula
-487,Platycerota vitticostata
-488,Pingasa ruginaria
-489,Pindara illibata
-490,Pilocrocis milvinalis
-491,Picrostomastis subrosealis
-492,Phazaca leucocera
-493,Phalera grotei
-494,Petelia distracta
-495,Perixera illepidaria
-496,Perixera decretarioides
-497,Parapoynx diminutalis
-498,Parapoynx crisonalis
-499,Paracymoriza vagalis
-500,Paracymoriza olivalis
-501,Pantana substrigosa
-502,Palpita annulifer
-503,Ozola minor
-504,Oxyodes scrobiculata
-505,Oxaenanus brontesalis
-506,Orvasca bicolor
-507,Orthaga exvinacea
-508,Orphanostigma abruptalis
-509,Oreta extensa
-510,Ophthalmitis caritaria
-511,Omphisa repetitalis
-512,Olepa clavatus
-513,Olene dudgeoni
-514,Oenospila flavifusata
-515,Ocinara albicollis
-516,Nygmia plana
-517,Nyctemera hampsoni
-518,Nosophora dispilalis
-519,Nolasena ferrifervens
-520,Noctuelia dichroalis
-521,Neochera inops
-522,Negeta contrariata
-523,Musotima suffusalis
-524,Mosara apicalis
-525,Miltochrista conjunctana
-526,Microloxia indecretata
-527,Microloxia herbaria
-528,Metanastria hyrtaca
-529,Mecodina diastriga
-530,Maurilia iconica
-531,Massepha absolutalis
-532,Maruca amboinalis
-533,Maliattha ruptifascia
-534,Maguda suffusa
-535,Macroglossum particolor
-536,Macroglossum neotroglodytus
-537,Macotasa orientalis
-538,Lymantria todara
-539,Lymantria monacha
-540,Lymantria mathura
-541,Lymantria incerta
-542,Lymantria dispar
-543,Lymantria aryama
-544,Lygropia distorta
-545,Lophophelma luteipes
-546,Lomographa inamata
-547,Loepa katinka
-548,Leucophlebia lineata
-549,Lamprosema commixta
-550,Lacera procellosa
-551,Lacera noctilio
-552,Ischyja manlia
-553,Imma marmarozona
-554,Imma mackwoodii
-555,Idaea violacea
-556,Idaea micra
-557,Hypsopygia nigrivitta
-558,Hyposidra violescens
-559,Hyposada hydrocampata
-560,Hypena sagitta
-561,Hypena palparia
-562,Hypena lividalis
-563,Hypena conscitalis
-564,Homona coffearia
-565,Homodes vivida
-566,Homodes crocea
-567,Hipoepa fractalis
-568,Herpetogramma cynaralis
-569,Herpetogramma basalis
-570,Hemithea wuka
-571,Heliothis peltigera
-572,Helicoverpa assulta
-573,Hamodes propitia
-574,Grammodes geometrica
-575,Gonodontis pallida
-576,Gastropacha pardale
-577,Gampola fasciata
-578,Galleria mellonella
-579,Evomina plagiola
-580,Euthrix laeta
-581,Eupterote mollifera
-582,Euproctis lunata
-583,Eumeta variegata
-584,Eudocima cocalus
-585,Eucyclodes picturata
-586,Eublemma versicolor
-587,Eublemma semirufa
-588,Eublemma roseonivea
-589,Eublemma dimidialis
-590,Ericeia pertendens
-591,Episteme latimargo
-592,Eois memorata
-593,Eois grataria
-594,Emmelina monodactyla
-595,Ecliptopera dissecta
-596,Dysgonia torrida
-597,Dysgonia algira
-598,Doloessa viridis
-599,Dierna strigata
-600,Delgamma pangonia
-601,Dasyboarmia delineata
-602,Daphnis minima
-603,Cydalima laticostalis
-604,Cyclophora obstataria
-605,Cyclophora intermixtaria
-606,Cyana subornata
-607,Ctenoplusia tarassota
-608,Crocidosema plebejana
-609,Crocidolomia pavonana
-610,Cricula andrei
-611,Condica conducta
-612,Comostola subtiliaria
-613,Collinsa acutalis
-614,Coconympha iriarcha
-615,Cleora contiguata
-616,Cleora acaciaria
-617,Chrioloba indicaria
-618,Choreutis ophiosema
-619,Chlorochaeta integranota
-620,Chiasmia fidoniata
-621,Cheromettia apicata
-622,Chasmina fasciculosa
-623,Chalcidica mineus
-624,Chadisra bipars
-625,Catoria sublavaria
-626,Catephia linteola
-627,Cassephyra lamprosticta
-628,Carriola fenestrata
-629,Cania bilinea
-630,Callyna monoleuca
-631,Callyna jugaria
-632,Callopistria maillardi
-633,Calletaera subexpressa
-634,Calesia haemorrhoa
-635,Calesia dasypterus
-636,Caduca albopunctata
-637,Brithys crini
-638,Bosara albitornalis
-639,Bocula diffisa
-640,Boarmia pallida
-641,Boarmia adamata
-642,Blasticorhinus rivulosa
-643,Belippa horrida
-644,Beara dichromella
-645,Beana terminigera
-646,Batracharta obliqua
-647,Banisia myrsusalis
-648,Bamra mundata
-649,Bagada spicea
-650,Asura metamelas
-651,Asura congerens
-652,Aroa clara
-653,Aroa campbelli
-654,Arna bipunctapex
-655,Argyrogramma signata
-656,Arcte coerula
-657,Aplochlora vivilaca
-658,Antimimistis cuprina
-659,Antimimistis attenuata
-660,Antheua exanthemata
-661,Anisoneura aluco
-662,Analyta apicalis
-663,Amyna axis
-664,Altha nivea
-665,Aloa cardinalis
-666,Almonia cristata
-667,Agrotis spinifera
-668,Agrotera scissalis
-669,Aglaopus industa
-670,Aergina fumosa
-671,Adoxophyes privatana
-672,Adisura atkinsoni
-673,Addaea trimeronalis
-674,Acropteris ciniferaria
-675,Acronicta morula
-676,Acolutha pictaria
-677,Achrosis fulvifusa
-678,Achaea mezentia
-679,Acantholipes trajecta
-680,Abraxas crocearia
+recordNumber ,scientificName,commonName,COUNTA of Sp,taxonID,superFamily,family,subFamily,tribe,subTribe,genus
+1,Micronia aculeata,Grey Swallowtail Moth,136,145630,Geometroidea,Uraniidae,Microniinae,,,Micronia
+2,Nepita conferta,,107,143776,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Nepita
+3,Dysphania percota,Blue Tiger Moth,103,319698,Geometroidea,Geometridae,Geometrinae,Dysphaniini,,Dysphania
+4,Spoladea recurvalis,Hawaiian Beet Webworm Moth,93,52043,Pyraloidea,Crambidae,Spilomelinae,Hymeniini,,Spoladea
+5,Syntomoides imaon,Handmaiden Moth,77,122956,Noctuoidea,Erebidae,Arctiinae,Syntomini,,Syntomoides
+6,Euchromia polymena,Painted Handmaiden Moth,76,52090,Noctuoidea,Erebidae,Arctiinae,Arctiini,Euchromiina,Euchromia
+7,Erebus hieroglyphica,Tropical Owl,72,203994,Noctuoidea,Erebidae,Erebinae,Erebini,,Erebus
+8,Erebus ephesperis,Smiling Face Moth,64,122957,Noctuoidea,Erebidae,Erebinae,Erebini,,Erebus
+9,Amata passalis,sandalwood defoliator,60,332480,Noctuoidea,Erebidae,Arctiinae,Syntomini,,Amata
+10,Eurrhyparodes bracteolalis,Yellow Blotched Pearl Moth,57,199439,Pyraloidea,Crambidae,Spilomelinae,Herpetogrammatini,,Eurrhyparodes
+11,Eumelea ludovicata,Orpiment Moth,51,199156,Geometroidea,Geometridae,Desmobathrinae,,,Eumelea
+12,Asota caricae,Tropical Tiger Moth,51,52086,Noctuoidea,Erebidae,Aganainae,,,Asota
+13,Xanthodes transversa,Transverse moth,48,153452,Noctuoidea,Noctuidae,Bagisarinae,,,Xanthodes
+14,Mocis undata,Brown-striped Semilooper,45,52034,Noctuoidea,Erebidae,Erebinae,Euclidiini,,Mocis
+15,Pergesa acteus,Green Pergesa Hawkmoth,44,322014,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Choerocampina,Pergesa
+16,Hyposidra talaca,Black Looper,43,196588,Geometroidea,Geometridae,Ennominae,Boarmiini,,Hyposidra
+17,Eudocima materna,Dot-underwing Moth,43,319809,Noctuoidea,Erebidae,Calpinae,Ophiderini,,Eudocima
+18,Polytela gloriosae,Indian Lily Moth,41,205591,Noctuoidea,Noctuidae,Noctuinae,Glottulini,,Polytela
+19,Diaphania indica,Cucumber Moth,41,51922,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Diaphania
+20,Pangora matherana,Matheran Moth,40,602311,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Pangora
+21,Episteme maculatrix,,38,464057,Noctuoidea,Noctuidae,Agaristinae,,,Episteme
+22,Scopula opicata,,37,344288,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Scopula
+23,Attacus taprobanis,Sri Lankan Atlas Moth,36,125061,Bombycoidea,Saturniidae,Saturniinae,Attacini,,Attacus
+24,Nyctemera coleta,Marbled White Moth,35,202268,Noctuoidea,Erebidae,Arctiinae,Arctiini,Pericopina,Nyctemera
+25,Macrobrochis gigas,Giant Moth,35,204734,Noctuoidea,Erebidae,Arctiinae,Lithosiini,,Macrobrochis
+26,Eligma narcissus,Ailanthus Defoliator,35,144054,Noctuoidea,Nolidae,Eligminae,,,Eligma
+27,Daphnis nerii,Oleander Hawkmoth,35,51996,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Macroglossina,Daphnis
+28,Parapoynx stagnalis,Rice Case Bearer,33,203822,Pyraloidea,Crambidae,Acentropinae,,,Parapoynx
+29,Eudocima homaena,Deciduous Moth,32,51994,Noctuoidea,Erebidae,Calpinae,Ophiderini,,Eudocima
+30,Cnaphalocrocis poeyalis,Lesser Rice-leafroller,31,196584,Pyraloidea,Crambidae,Spilomelinae,Spilomelini,,Cnaphalocrocis
+31,Bocchoris inspersalis,Dotted Sable,31,202668,Pyraloidea,Crambidae,Spilomelinae,Nomophilini,,Bocchoris
+32,Glyphodes bicolor,,30,202666,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Glyphodes
+33,Spodoptera litura,Oriental leafworm moth,28,124875,Noctuoidea,Noctuidae,Noctuinae,Prodeniini,,Spodoptera
+34,Sameodes cancellalis,Banded Pearl,28,52038,Pyraloidea,Crambidae,Spilomelinae,Nomophilini,,Sameodes
+35,Erebus macrops,Common Owl Moth,27,121840,Noctuoidea,Erebidae,Erebinae,Erebini,,Erebus
+36,Creatonotos transiens,,21,125258,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Creatonotos
+37,Aethaloessa calidalis,,27,121891,Pyraloidea,Crambidae,Spilomelinae,Spilomelini,,Aethaloessa
+38,Thyas coronata,Yellow Underwing,26,121948,Noctuoidea,Erebidae,Erebinae,Ophiusini,,Thyas
+39,Tetragonus catamitus,Common Butterfly Moth,26,121881,Calliduloidea,Callidulidae,,,,Tetragonus
+40,Mocis frugalis,Sugarcane Looper,26,52031,Noctuoidea,Erebidae,Erebinae,Euclidiini,,Mocis
+41,Pareuchaetes pseudoinsulata,Siam Weed Defoliator,25,604101,Noctuoidea,Erebidae,Arctiinae,Arctiini,Phaegopterina,Pareuchaetes
+42,Ammatho cuneonotatus,,25,985646,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Ammatho
+43,Trabala vishnou,Rose Myrtle Lappet Moth,24,124655,Lasiocampoidea,Lasiocampidae,Lasiocampinae,Trabalini,,Trabala
+44,Theretra lucasii,Lucas's Hawkmoth,24,1136896,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Choerocampina,Theretra
+45,Metoeca foedalis,,24,199205,Pyraloidea,Crambidae,Spilomelinae,,,Metoeca
+46,Episteme adulatrix,Blue-spotted Forester Moth,24,332979,Noctuoidea,Noctuidae,Agaristinae,,,Episteme
+47,Hulodes caranea,Wood Moth,23,153462,Noctuoidea,Erebidae,Erebinae,Hulodini,,Hulodes
+48,Haritalodes derogata,Cotton Leaf Roller,23,203078,Pyraloidea,Crambidae,Spilomelinae,Agroterini,,Haritalodes
+49,Eudocima hypermnestra,,23,203149,Noctuoidea,Erebidae,Calpinae,Ophiderini,,Eudocima
+50,Phalacra vidhisara,,22,203074,Drepanoidea,Drepanidae,Drepaninae,Drepanini,,Phalacra
+51,Cyana peregrina,,22,604841,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Cyana
+52,Agathia laetata,,22,210994,Geometroidea,Geometridae,Geometrinae,Agathiini,,Agathia
+53,Actias selene,Indian Moon Moth,21,68366,Bombycoidea,Saturniidae,Saturniinae,Saturniini,,Actias
+54,Glyphodes caesalis,Jack Fruit Borer,19,196985,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Glyphodes
+55,Theretra nessus,Yam Hawkmoth,18,52004,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Choerocampina,Theretra
+56,Chiasmia nora,,18,465487,Geometroidea,Geometridae,Ennominae,Macariini,,Chiasmia
+57,Chalciope mygdon,Triangular-striped moth,18,203112,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Chalciope
+58,Lymantria ampla,,17,630873,Noctuoidea,Erebidae,Lymantriinae,Lymantriini,,Lymantria
+59,Cyclothea disjuncta,,17,424572,Geometroidea,Geometridae,Geometrinae,,,Cyclothea
+60,Theretra silhetensis,Brown-Banded Hunter Hawkmoth,16,121856,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Choerocampina,Theretra
+61,Maruca vitrata,Mung Bean Moth,16,122668,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Maruca
+62,Glyphodes bivitralis,,16,325800,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Glyphodes
+63,Ganisa postica,,16,512000,Bombycoidea,Eupterotidae,Eupterotinae,,,Ganisa
+64,Trigonodes hyppasia,Triangles,15,203110,Noctuoidea,Erebidae,Erebinae,Euclidiini,,Trigonodes
+65,Cnaphalocrocis medinalis,Rice Leaf-roller,15,52045,Pyraloidea,Crambidae,Spilomelinae,Spilomelini,,Cnaphalocrocis
+66,Borbacha pardaria,,15,418785,Geometroidea,Geometridae,Ennominae,Baptini,,Borbacha
+67,Anomis flava,Tropical Anomis,15,213715,Noctuoidea,Erebidae,Scoliopteryginae,Anomini,,Anomis
+68,Tricyanaula aurantiaca,,14,952692,Gelechioidea,Gelechiidae,,,,Tricyanaula
+69,Syngamia latimarginalis,,14,510161,Pyraloidea,Crambidae,Spilomelinae,Nomophilini,,Syngamia
+70,Oraesia emarginata,Fruit piercing moth,14,203904,Noctuoidea,Erebidae,Calpinae,Calpini,,Oraesia
+71,Nausinoe perspectata,,14,52001,Pyraloidea,Crambidae,Spilomelinae,,,Nausinoe
+72,Ercheia cyllaria,,14,209608,Noctuoidea,Erebidae,Erebinae,Ercheiini,,Ercheia
+73,Bastilla joviana,,14,199561,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Bastilla
+74,Anticarsia irrorata,,14,205115,Noctuoidea,Erebidae,Eulepidotinae,Panopodini,,Anticarsia
+75,Acherontia lachesis,Greater Death's Head Hawkmoth,14,121837,Bombycoidea,Sphingidae,Sphinginae,Sphingini,Acherontiina,Acherontia
+76,Pseudomicronia advocataria,,13,244142,Geometroidea,Uraniidae,Microniinae,,,Pseudomicronia
+77,Parapoynx fluctuosalis,,13,199986,Pyraloidea,Crambidae,Acentropinae,,,Parapoynx
+78,Cyclosia latipennis,Wide Winged Jewel,13,1137824,Zygaenoidea,Zygaenidae,Chalcosiinae,,,Cyclosia
+79,Artena submira,,13,865409,Noctuoidea,Erebidae,Erebinae,Ophiusini,,Artena
+80,Zurobata vacillans,,12,244882,Noctuoidea,Erebidae,Boletobiinae,Aventiini,,Zurobata
+81,Striglina scitaria,,12,461434,Thyridoidea,Thyrididae,,,,Striglina
+82,Scopula addictaria,,12,981191,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Scopula
+83,Ravanoa xiphialis,,12,474097,Pyraloidea,Crambidae,Spilomelinae,,,Ravanoa
+84,Pygospila tyres,Chequered Snout,12,124872,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Pygospila
+85,Progonia oileusalis,,12,205728,Noctuoidea,Erebidae,Herminiinae,,,Progonia
+86,Olene mendosa,Brown Tussock Moth,12,61995,Noctuoidea,Erebidae,Lymantriinae,Orgyiini,,Olene
+87,Naxa textilis,,12,736045,Geometroidea,Geometridae,Desmobathrinae,,,Naxa
+88,Nausinoe geometralis,,12,124308,Pyraloidea,Crambidae,Spilomelinae,,,Nausinoe
+89,Maliattha separata,,12,211013,Noctuoidea,Noctuidae,Eustrotiinae,,,Maliattha
+90,Ischyja marapok,,12,546925,Noctuoidea,Erebidae,Erebinae,,,Ischyja
+91,Hyperythra lutea,,12,209495,Geometroidea,Geometridae,Ennominae,,,Hyperythra
+92,Hydriris ornatalis,Ornate Hydriris Moth,12,199428,Pyraloidea,Crambidae,Spilomelinae,Hydririni,,Hydriris
+93,Curoba sangarida,,12,367969,Noctuoidea,Erebidae,Arctiinae,Arctiini,,Curoba
+94,Artena dotata,Owlet Moth,12,122754,Noctuoidea,Erebidae,Erebinae,Ophiusini,,Artena
+95,Agathia hemithearia,,12,423606,Geometroidea,Geometridae,Geometrinae,Agathiini,,Agathia
+96,Achaea janata,Castor Semi-looper,12,204042,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Achaea
+97,Pyrausta phoenicealis,Phoenicean Pyrausta,11,473599,Pyraloidea,Crambidae,Pyraustinae,Pyraustini,,Pyrausta
+98,Pyralis manihotalis,Tropical Meal Moth,11,330478,Pyraloidea,Pyralidae,Pyralinae,Pyralini,,Pyralis
+99,Petelia medardaria,,11,635236,Geometroidea,Geometridae,Ennominae,Caberini,,Petelia
+100,Nymphicula trimacula,,11,1153360,Pyraloidea,Crambidae,Acentropinae,,,Nymphicula
+101,Hippotion rosetta,Swinhoe's Striated Hawkmoth,11,51999,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Choerocampina,Hippotion
+102,Chiasmia emersaria,,11,203868,Geometroidea,Geometridae,Ennominae,Macariini,,Chiasmia
+103,Anisephyra ocularia,,11,850808,Geometroidea,Geometridae,Sterrhinae,Cosymbiini,,Anisephyra
+104,Xanthorhoe saturata,,10,423818,Geometroidea,Geometridae,Larentiinae,Xanthorhoini,,Xanthorhoe
+105,Parapholodes fuliginea,,10,961921,Geometroidea,Geometridae,Ennominae,Boarmiini,,Parapholodes
+106,Orvasca subnotata,Rosewood Defoliator,10,124255,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Orvasca
+107,Nacoleia charesalis,,10,490063,Pyraloidea,Crambidae,Spilomelinae,,,Nacoleia
+108,Mangina argus,Crotalaria Podbearer,10,205308,Noctuoidea,Erebidae,Arctiinae,Arctiini,Callimorphina,Mangina
+109,Leucania yu,,10,124314,Noctuoidea,Noctuidae,Noctuinae,Leucaniini,,Leucania
+110,Eudocima phalonia,Common Fruit-Piercing Moth,10,211068,Noctuoidea,Erebidae,Calpinae,Ophiderini,,Eudocima
+111,Erebus caprimulgus,,10,120521,Noctuoidea,Erebidae,Erebinae,Erebini,,Erebus
+112,Cyana puella,,10,601793,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Cyana
+113,Bocana manifestalis,,10,364088,Noctuoidea,Erebidae,Herminiinae,,,Bocana
+114,Bastilla simillima,,10,416653,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Bastilla
+115,Bastilla crameri,,10,415538,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Bastilla
+116,Asota plana,,10,202258,Noctuoidea,Erebidae,Aganainae,,,Asota
+117,Asota canaraica,,10,1114895,Noctuoidea,Erebidae,Aganainae,,,Asota
+118,Aporandria specularia,,10,145543,Geometroidea,Geometridae,Geometrinae,Hemitheini,,Aporandria
+119,Traminda aventiaria,Cross-line Wave Moth,9,203869,Geometroidea,Geometridae,Sterrhinae,Rhodometrini,,Traminda
+120,Scopula fibulata,,9,417722,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Scopula
+121,Nyctemera lacticinia,Common Nyctemera,9,124131,Noctuoidea,Erebidae,Arctiinae,Arctiini,Pericopina,Nyctemera
+122,Miresa argentifera,,9,124671,Zygaenoidea,Limacodidae,Limacodinae,,,Miresa
+123,Marumba dyras,dull swirled hawkmoth,9,202660,Bombycoidea,Sphingidae,Smerinthinae,Sichiini,,Marumba
+124,Hymenia perspectalis,Spotted Beet Webworm Moth,9,142995,Pyraloidea,Crambidae,Spilomelinae,Hymeniini,,Hymenia
+125,Eumelea rosalia,,9,461307,Geometroidea,Geometridae,Desmobathrinae,,,Eumelea
+126,Endotricha mesenterialis,,9,243791,Pyraloidea,Pyralidae,Pyralinae,Endotrichini,,Endotricha
+127,Egnasia ephyrodalis,,9,244111,Noctuoidea,Erebidae,Pangraptinae,,,Egnasia
+128,Earias cupreoviridis,,9,203830,Noctuoidea,Nolidae,Eariadinae,,,Earias
+129,Brunia antica,,9,126028,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Lithosiina,Brunia
+130,Rajendra biguttata,,8,482122,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Rajendra
+131,Poliobotys ablactalis,,8,462028,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Poliobotys
+132,Pharambara splendida,,8,424756,Thyridoidea,Thyrididae,,,,Pharambara
+133,Omiodes diemenalis,Bean Leafroller,8,202113,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Omiodes
+134,Nodaria externalis,,8,199988,Noctuoidea,Erebidae,Herminiinae,,,Nodaria
+135,Eudocima cajeta,,8,202765,Noctuoidea,Erebidae,Calpinae,Ophiderini,,Eudocima
+136,Dysgonia stuposa,,8,321570,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Dysgonia
+137,Cyclodes omma,Nut Borer,8,465828,Noctuoidea,Noctuidae,Dyopsinae,,,Cyclodes
+138,Comostola laesaria,,8,194494,Geometroidea,Geometridae,Geometrinae,Hemitheini,,Comostola
+139,Biston suppressaria,tea looper,8,237825,Geometroidea,Geometridae,Ennominae,Bistonini,,Biston
+140,Bastilla fulvotaenia,,8,243794,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Bastilla
+141,Amata cyssea,,8,281571,Noctuoidea,Erebidae,Arctiinae,Syntomini,,Amata
+142,Sphrageidus similis,Swan Moth,7,362811,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Sphrageidus
+143,Scopula emissaria,,7,244421,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Scopula
+144,Patania iopasalis,,7,554981,Pyraloidea,Crambidae,Spilomelinae,Agroterini,,Patania
+145,Omiodes indicata,Bean-leaf Webworm Moth,7,319482,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Omiodes
+146,Maliattha signifera,,7,199514,Noctuoidea,Noctuidae,Eustrotiinae,,,Maliattha
+147,Leucinodes orbonalis,Eggplant Fruit and Shoot Borer,7,124869,Pyraloidea,Crambidae,Spilomelinae,Lineodini,,Leucinodes
+148,Hippotion celerio,Vine Hawkmoth,7,199458,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Choerocampina,Hippotion
+149,Gesonia obeditalis,,7,362055,Noctuoidea,Erebidae,Boletobiinae,Phytometrini,,Gesonia
+150,Filodes fulvidorsalis,,7,121909,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Filodes
+151,Eupanacra busiris,Green Rippled Hawkmoth,3,121838,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Macroglossina,Eupanacra
+152,Endocrossis flavibasalis,,7,343729,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Endocrossis
+153,Buzara onelia,,7,124245,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Buzara
+154,Ataboruza divisa,,7,204675,Noctuoidea,Erebidae,Boletobiinae,Aventiini,,Ataboruza
+155,Artaxa guttata,,7,556271,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Artaxa
+156,Agrioglypta itysalis,,7,417343,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Agrioglypta
+157,Traminda mundissima,,6,424830,Geometroidea,Geometridae,Sterrhinae,Rhodometrini,,Traminda
+158,Tatobotys biannulalis,,6,243789,Pyraloidea,Crambidae,Spilomelinae,Steniini,,Tatobotys
+159,Sympis rufibasis,,6,204819,Noctuoidea,Erebidae,Erebinae,Erebini,,Sympis
+160,Pseudoblabes oophora,,6,371800,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Cisthenina,Pseudoblabes
+161,Pelagodes antiquadraria,,6,154074,Geometroidea,Geometridae,Geometrinae,Geometrini,,Pelagodes
+162,Orudiza protheclaria,,6,193956,Geometroidea,Uraniidae,Epipleminae,,,Orudiza
+163,Olepa ricini,,6,370855,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Olepa
+164,Oeonistis entella,,6,125979,Noctuoidea,Erebidae,Arctiinae,Lithosiini,,Oeonistis
+165,Idaea gemmaria,,6,853061,Geometroidea,Geometridae,Sterrhinae,Sterrhini,,Idaea
+166,Hyblaea puera,Teak Defoliator,6,202649,Hyblaeoidea,Hyblaeidae,,,,Hyblaea
+167,Eretmocera impactella,,6,347431,Gelechioidea,Scythrididae,,,,Eretmocera
+168,Eressa confinis,,6,210962,Noctuoidea,Erebidae,Arctiinae,Syntomini,,Eressa
+169,Ectropis bhurmitra,Burmese Engrailed Moth,6,124225,Geometroidea,Geometridae,Ennominae,Boarmiini,,Ectropis
+170,Dierna patibulum,,6,450312,Noctuoidea,Erebidae,Calpinae,Calpini,,Dierna
+171,Diduga flavicostata,,6,204657,Noctuoidea,Erebidae,Arctiinae,Lithosiini,,Diduga
+172,Asota plaginota,,6,204825,Noctuoidea,Erebidae,Aganainae,,,Asota
+173,Asota heliconia,,6,202248,Noctuoidea,Erebidae,Aganainae,,,Asota
+174,Argina astrea,crotalaria pod borer,6,318525,Noctuoidea,Erebidae,Arctiinae,Arctiini,Callimorphina,Argina
+175,Amplypterus panopus,mango hawkmoth,6,204801,Bombycoidea,Sphingidae,Smerinthinae,Ambulycini,,Amplypterus
+176,Aloa lactinea,Red Costate Tiger Moth,6,244122,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Aloa
+177,Agrius convolvuli,Convolvulus Hawkmoth,6,124031,Bombycoidea,Sphingidae,Sphinginae,Sphingini,Acherontiina,Agrius
+178,Agathodes ostentalis,,6,124866,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Agathodes
+179,Aetholix flavibasalis,,6,196582,Pyraloidea,Crambidae,Spilomelinae,Agroterini,,Aetholix
+180,Trilocha varians,,5,193959,Bombycoidea,Bombycidae,Bombycinae,,,Trilocha
+181,Theretra lycetus,White-edged Hunter Hawkmoth,5,498837,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Choerocampina,Theretra
+182,Talanga sexpunctalis,,5,204810,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Talanga
+183,Sphenarches anisodactylus,Fire-flag Plume Moth,5,134123,Pterophoroidea,Pterophoridae,Pterophorinae,Oxyptilini,,Sphenarches
+184,Scirpophaga incertulas,Rice Yellow Stem Borer,5,124811,Pyraloidea,Crambidae,Schoenobiinae,,,Scirpophaga
+185,Pingasa chlora,White Looper Moth,5,473548,Geometroidea,Geometridae,Geometrinae,Pseudoterpnini,,Pingasa
+186,Perina nuda,Banyan tussock moth,5,196983,Noctuoidea,Erebidae,Lymantriinae,Leucomini,,Perina
+187,Parasa lepida,Blue-striped Nettle Grub,5,202828,Zygaenoidea,Limacodidae,Limacodinae,,,Parasa
+188,Paliga machoeralis,,5,430169,Pyraloidea,Crambidae,Pyraustinae,,,Paliga
+189,Notarcha aurolinealis,,5,203043,Pyraloidea,Crambidae,Spilomelinae,Agroterini,,Notarcha
+190,Nevrina procopia,,5,205161,Pyraloidea,Crambidae,Spilomelinae,,,Nevrina
+191,Miresa pyronota,,5,1119100,Zygaenoidea,Limacodidae,Limacodinae,,,Miresa
+192,Hypomecis transcissa,,5,124253,Geometroidea,Geometridae,Ennominae,Boarmiini,,Hypomecis
+193,Hypomecis lioptilaria,,5,751142,Geometroidea,Geometridae,Ennominae,Boarmiini,,Hypomecis
+194,Hydrillodes lentalis,,5,244668,Noctuoidea,Erebidae,Herminiinae,,,Hydrillodes
+195,Hemithea tritonaria,,5,126723,Geometroidea,Geometridae,Geometrinae,Hemitheini,,Hemithea
+196,Helicoverpa armigera,Cotton Bollworm Moth,5,83806,Noctuoidea,Noctuidae,Heliothinae,,,Helicoverpa
+197,Glyphodes onychinalis,Swan plant flower moth,5,203102,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Glyphodes
+198,Eurrhyparodes tricoloralis,,5,209399,Pyraloidea,Crambidae,Spilomelinae,Herpetogrammatini,,Eurrhyparodes
+199,Eterusia aedea,Red slug caterpillar,5,151806,Zygaenoidea,Zygaenidae,Chalcosiinae,,,Eterusia
+200,Erygia spissa,,5,362035,Noctuoidea,Erebidae,Erebinae,Erebini,,Erygia
+201,Enispa elataria,,5,204842,Noctuoidea,Erebidae,Boletobiinae,Aventiini,,Enispa
+202,Endoclita malabaricus,,5,782611,Hepialoidea,Hepialidae,,,,Endoclita
+203,Dyrzela plagiata,,5,199559,Noctuoidea,Noctuidae,Bagisarinae,,,Dyrzela
+204,Dichromia sagitta,,5,202235,Noctuoidea,Erebidae,Hypeninae,,,Dichromia
+205,Cyclidia dictyaria,,5,633741,Drepanoidea,Drepanidae,Cyclidiinae,,,Cyclidia
+206,Conogethes punctiferalis,Yellow Peach Moth,5,125248,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Conogethes
+207,Chlumetia transversa,,5,319646,Noctuoidea,Euteliidae,Euteliinae,,,Chlumetia
+208,Calliteara grotei,Grote's Tussock Moth,5,205293,Noctuoidea,Erebidae,Lymantriinae,Orgyiini,,Calliteara
+209,Antitrygodes divisaria,,5,199158,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Antitrygodes
+210,Antheraea paphia,Tasar Silk Moth,5,509800,Bombycoidea,Saturniidae,Saturniinae,Saturniini,,Antheraea
+211,Amerila astreus,,5,437824,Noctuoidea,Erebidae,Arctiinae,Amerilini,,Amerila
+212,Agathia hilarata,,5,847604,Geometroidea,Geometridae,Geometrinae,Agathiini,,Agathia
+213,Achrosis rondelaria,,5,965304,Geometroidea,Geometridae,Ennominae,Hypochrosini,,Achrosis
+214,Acherontia styx,Eastern Death's Head hawkmoth,4,82830,Bombycoidea,Sphingidae,Sphinginae,Sphingini,Acherontiina,Acherontia
+215,Xanthodes intersepta,,4,145628,Noctuoidea,Noctuidae,Bagisarinae,,,Xanthodes
+216,Xanthodes albago,Cream Drab,4,497592,Noctuoidea,Noctuidae,Bagisarinae,,,Xanthodes
+217,Utetheisa lotrix,Crotalaria moth,4,334603,Noctuoidea,Erebidae,Arctiinae,Arctiini,Callimorphina,Utetheisa
+218,Trigonodes cephise,,4,537143,Noctuoidea,Erebidae,Erebinae,Euclidiini,,Trigonodes
+219,Theretra oldenlandiae,White-banded Hunter Hawkmoth,4,125110,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Choerocampina,Theretra
+220,Terastia egialealis,,4,194347,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Terastia
+221,Synclera traducalis,Variegated Pearl,4,205111,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Synclera
+222,Symmoracma minoralis,,4,462108,Pyraloidea,Crambidae,Spilomelinae,Steniini,,Symmoracma
+223,Scopula pulchellata,,4,125164,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Scopula
+224,Scopula annularia,,4,954299,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Scopula
+225,Sarobela litterata,,4,202974,Noctuoidea,Erebidae,Hypeninae,,,Sarobela
+226,Psilogramma vates,,4,520028,Bombycoidea,Sphingidae,Sphinginae,Sphingini,,Psilogramma
+227,Patissa fulvosparsa,,4,497992,Pyraloidea,Crambidae,Schoenobiinae,,,Patissa
+228,Parotis marginata,,4,495522,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Parotis
+229,Parasa hilaris,,4,702436,Zygaenoidea,Limacodidae,Limacodinae,,,Parasa
+230,Ophiusa tirhaca,Green Drab,4,124891,Noctuoidea,Erebidae,Erebinae,Ophiusini,,Ophiusa
+231,Nygmia icilia,,4,868718,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Nygmia
+232,Nudaria diaphanella,,4,450502,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Nudaria
+233,Notarcha tigrina,,4,892458,Pyraloidea,Crambidae,Spilomelinae,Agroterini,,Notarcha
+234,Nola lucidalis,,4,204667,Noctuoidea,Nolidae,Nolinae,,,Nola
+235,Mecodina praecipua,,4,322058,Noctuoidea,Erebidae,Aganainae,,,Mecodina
+236,Marumba nympha,,4,490174,Bombycoidea,Sphingidae,Smerinthinae,Sichiini,,Marumba
+237,Maliattha lativitta,,4,703231,Noctuoidea,Noctuidae,Eustrotiinae,,,Maliattha
+238,Lymantria marginata,,4,125264,Noctuoidea,Erebidae,Lymantriinae,Lymantriini,,Lymantria
+239,Lygniodes vampyrus,,4,1258247,Noctuoidea,Erebidae,Erebinae,Erebini,,Lygniodes
+240,Hypertrocta posticalis,,4,1260347,Noctuoidea,Erebidae,Hypeninae,,,Hypertrocta
+241,Hypena obacerralis,,4,480246,Noctuoidea,Erebidae,Hypeninae,,,Hypena
+242,Heortia vitessoides,,4,121879,Pyraloidea,Crambidae,Odontiinae,,,Heortia
+243,Hemonia orbiferana,,4,145579,Noctuoidea,Erebidae,Arctiinae,Lithosiini,,Hemonia
+244,Grammodes stolida,The Geometrician,4,116384,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Grammodes
+245,Glyphodes canthusalis,,4,193951,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Glyphodes
+246,Falana sordida,,4,418312,Noctuoidea,Erebidae,Erebinae,,,Falana
+247,Eustrotia marginata,,4,335592,Noctuoidea,Noctuidae,Eustrotiinae,,,Eustrotia
+248,Eublemma accedens,,4,125310,Noctuoidea,Erebidae,Boletobiinae,Eublemmini,,Eublemma
+249,Elophila scitalis,,4,1120956,Pyraloidea,Crambidae,Acentropinae,,,Elophila
+250,Cyclosia papilionaris,Drury's Jewel,4,326018,Zygaenoidea,Zygaenidae,Chalcosiinae,,,Cyclosia
+251,Cricula trifenestrata,Cricula Silkmoth,4,510228,Bombycoidea,Saturniidae,Saturniinae,Saturniini,,Cricula
+252,Chiasmia eleonora,,4,543233,Geometroidea,Geometridae,Ennominae,Macariini,,Chiasmia
+253,Chabula acamasalis,,4,193954,Pyraloidea,Crambidae,Spilomelinae,,,Chabula
+254,Cerynea punctilinealis,,4,428667,Noctuoidea,Erebidae,Boletobiinae,Eublemmini,,Cerynea
+255,Calesia fuscicorpus,,4,1145106,Noctuoidea,Erebidae,Tinoliinae,,,Calesia
+256,Bradina admixtalis,,4,654107,Pyraloidea,Crambidae,Spilomelinae,Steniini,,Bradina
+257,Botyodes diniasalis,,4,428895,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Botyodes
+258,Bertula abjudicalis,,4,244672,Noctuoidea,Erebidae,Herminiinae,,,Bertula
+259,Bastilla arcuata,,4,319453,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Bastilla
+260,Atteva fabriciella,White-spotted Tube Moth,4,633179,Yponomeutoidea,Attevidae,,,,Atteva
+261,Angonyx krishna,,4,338277,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Macroglossina,Angonyx
+262,Anadevidia peponis,,4,349086,Noctuoidea,Noctuidae,Plusiinae,Argyrogrammatini,,Anadevidia
+263,Alcis nilgirica,,4,918477,Geometroidea,Geometridae,Ennominae,Boarmiini,,Alcis
+264,Utetheisa pulchelloides,Heliotrope Moth,3,125231,Noctuoidea,Erebidae,Arctiinae,Arctiini,Callimorphina,Utetheisa
+265,Trischalis subaurana,,3,337493,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Eugoa group,Trischalis
+266,Thyas honesta,,3,333587,Noctuoidea,Erebidae,Erebinae,Ophiusini,,Thyas
+267,Theretra clotho,Common Hunter Hawkmoth,3,338292,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Choerocampina,Theretra
+268,Synegia conflagrata,,3,898079,Geometroidea,Geometridae,Ennominae,Baptini,,Synegia
+269,Spodoptera mauritia,Lawn Armyworm Moth,3,211020,Noctuoidea,Noctuidae,Noctuinae,Prodeniini,,Spodoptera
+270,Scopula modesta,,3,1078241,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Scopula
+271,Scopula adeptaria,,3,886259,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Scopula
+272,Rhombophylla edentata,,3,915668,Geometroidea,Uraniidae,Epipleminae,,,Rhombophylla
+273,Rhimphalea ochalis,,3,521432,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Rhimphalea
+274,Pygospila costiflexalis,,3,508627,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Pygospila
+275,Psilogramma increta,Plain grey hawkmoth,3,84253,Bombycoidea,Sphingidae,Sphinginae,Sphingini,,Psilogramma
+276,Prophantis adusta,,3,417698,Pyraloidea,Crambidae,Spilomelinae,Trichaeini,,Prophantis
+277,Progonia kurosawai,,3,882626,Noctuoidea,Erebidae,Herminiinae,,,Progonia
+278,Pericyma cruegeri,Poinciana Looper,3,324331,Noctuoidea,Erebidae,Erebinae,Pericymini,,Pericyma
+279,Parapoynx villidalis,,3,321373,Pyraloidea,Crambidae,Acentropinae,,,Parapoynx
+280,Pangora erosa,,3,465025,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Pangora
+281,Pagyda salvalis,,3,539056,Pyraloidea,Crambidae,Pyraustinae,Pyraustini,,Pagyda
+282,Ourapteryx marginata,,3,927787,Geometroidea,Geometridae,Ennominae,Ourapterygini,,Ourapteryx
+283,Orgyia postica,Cocoa Tussock Moth,3,199438,Noctuoidea,Erebidae,Lymantriinae,Orgyiini,,Orgyia
+284,Neocerura liturata,,3,201298,Noctuoidea,Notodontidae,Cerurinae,,,Neocerura
+285,Macaldenia palumba,,3,348925,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Macaldenia
+286,Mabra eryxalis,,3,370854,Pyraloidea,Crambidae,Spilomelinae,,,Mabra
+287,Lopharthrum comprimens,,3,337904,Noctuoidea,Erebidae,Boletobiinae,,,Lopharthrum
+288,Loepa schintlmeisteri,Bright Golden Emperor Moth,3,1263269,Bombycoidea,Saturniidae,Saturniinae,Saturniini,,Loepa
+289,Lamprosema tampiusalis,,3,318437,Pyraloidea,Crambidae,Spilomelinae,Hydririni,,Lamprosema
+290,Hypomecis separata,,3,474103,Geometroidea,Geometridae,Ennominae,Boarmiini,,Hypomecis
+291,Hypolamprus ypsilon,,3,490027,Thyridoidea,Thyrididae,Siculodinae,,,Hypolamprus
+292,Hypochrosis hyadaria,,3,424770,Geometroidea,Geometridae,Ennominae,Hypochrosini,,Hypochrosis
+293,Herpetogramma rudis,,3,539064,Pyraloidea,Crambidae,Spilomelinae,Herpetogrammatini,,Herpetogramma
+294,Glycythyma chrysorycta,,3,209508,Pyraloidea,Crambidae,Spilomelinae,,,Glycythyma
+295,Eublemma olivacea,,3,510227,Noctuoidea,Erebidae,Boletobiinae,Eublemmini,,Eublemma
+296,Eublemma brachygonia,,3,1260352,Noctuoidea,Erebidae,Boletobiinae,Eublemmini,,Eublemma
+297,Eublemma abrupta,,3,522317,Noctuoidea,Erebidae,Boletobiinae,Eublemmini,,Eublemma
+298,Ericeia inangulata,Sober Tabby,3,243788,Noctuoidea,Erebidae,Erebinae,Hulodini,,Ericeia
+299,Dysphania nelera,,3,776933,Geometroidea,Geometridae,Geometrinae,Dysphaniini,,Dysphania
+300,Dichocrocis rigidalis,,3,205291,Pyraloidea,Crambidae,Spilomelinae,,,Dichocrocis
+301,Diacrotricha fasciola,Starfruit Plume Moth,3,211098,Pterophoroidea,Pterophoridae,Pterophorinae,Pterophorini,,Diacrotricha
+302,Cyclosiella dulcicula,,3,450460,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Eugoa group,Cyclosiella
+303,Cyana guttifera,,3,627660,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Cyana
+304,Cusiala raptaria,,3,887250,Geometroidea,Geometridae,Ennominae,,,Cusiala
+305,Cusiala boarmoides,,3,627668,Geometroidea,Geometridae,Ennominae,,,Cusiala
+306,Comostola pyrrhogona,,3,208072,Geometroidea,Geometridae,Geometrinae,Hemitheini,,Comostola
+307,Cnaphalocrocis trebiusalis,,3,974128,Pyraloidea,Crambidae,Spilomelinae,Spilomelini,,Cnaphalocrocis
+308,Cleora alienaria,,3,201660,Geometroidea,Geometridae,Ennominae,Boarmiini,,Cleora
+309,Chrysodeixis eriosoma,Green Garden Looper,3,55649,Noctuoidea,Noctuidae,Plusiinae,Argyrogrammatini,,Chrysodeixis
+310,Chrysocraspeda faganaria,,3,479989,Geometroidea,Geometridae,Sterrhinae,Cosymbiini,,Chrysocraspeda
+311,Chorsia albiscripta,,3,204671,Noctuoidea,Noctuidae,Eustrotiinae,,,Chorsia
+312,Chiasmia pluviata,,3,714778,Geometroidea,Geometridae,Ennominae,Macariini,,Chiasmia
+313,Chiasmia normata,,3,657009,Geometroidea,Geometridae,Ennominae,Macariini,,Chiasmia
+314,Callidrepana patrana,,3,124527,Drepanoidea,Drepanidae,Drepaninae,Drepanini,,Callidrepana
+315,Bastilla amygdalis,,3,199269,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Bastilla
+316,Aroa plana,,3,1090472,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Aroa
+317,Antheua servula,,3,319043,Noctuoidea,Notodontidae,Phalerinae,,,Antheua
+318,Amata bicincta,,3,322907,Noctuoidea,Erebidae,Arctiinae,Syntomini,,Amata
+319,Agathia lycaenaria,,3,124246,Geometroidea,Geometridae,Geometrinae,Agathiini,,Agathia
+320,Acosmeryx anceus,,3,541415,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Macroglossina,Acosmeryx
+321,Achaea serva,,3,244053,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Achaea
+322,Abraxas poliaria,,3,1078363,Geometroidea,Geometridae,Ennominae,Abraxini,,Abraxas
+323,Yepcalphis dilectissima,,2,121914,Noctuoidea,Noctuidae,Noctuinae,,,Yepcalphis
+324,Xyleutes strix,,2,338290,Cossoidea,Cossidae,Zeuzerinae,,,Xyleutes
+325,Xyleutes persona,,2,201824,Cossoidea,Cossidae,Zeuzerinae,,,Xyleutes
+326,Ulopeza idyalis,,2,1010152,Pyraloidea,Crambidae,Spilomelinae,Agroterini,,Ulopeza
+327,Tyspanodes linealis,,2,211014,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Tyspanodes
+328,Trypanophora semihyalina,,2,202778,Zygaenoidea,Zygaenidae,Chalcosiinae,,,Trypanophora
+329,Trigonodes disjuncta,,2,560851,Noctuoidea,Erebidae,Erebinae,Euclidiini,,Trigonodes
+330,Tiracola plagiata,Cacao Armyworm,2,244135,Noctuoidea,Noctuidae,Noctuinae,Leucaniini,,Tiracola
+331,Tinolius eburneigutta,,2,338238,Noctuoidea,Erebidae,Tinoliinae,,,Tinolius
+332,Timandra ruptilinea,,2,326858,Geometroidea,Geometridae,Sterrhinae,Timandrini,,Timandra
+333,Thalathoides curtalis,,2,861221,Noctuoidea,Noctuidae,Acronictinae,,,Thalathoides
+334,Stauropus alternus,Lobster Caterpillar Moth,2,202022,Noctuoidea,Notodontidae,Notodontinae,Stauropini,,Stauropus
+335,Spilosoma obliqua,Jute Hairy Caterpillar Moth,2,326321,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Spilosoma
+336,Speiredonia obscura,,2,347259,Noctuoidea,Erebidae,Erebinae,Hulodini,,Speiredonia
+337,Somena scintillans,,2,701723,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Somena
+338,Somatina purpurascens,,2,418602,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Somatina
+339,Somatina omicraria,,2,910927,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Somatina
+340,Simplicia cornicalis,,2,243955,Noctuoidea,Erebidae,Herminiinae,,,Simplicia
+341,Simplicia bimarginata,,2,428730,Noctuoidea,Erebidae,Herminiinae,,,Simplicia
+342,Scopula butleri,,2,702197,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Scopula
+343,Rivula cognata,,2,840712,Noctuoidea,Erebidae,Rivulinae,,,Rivula
+344,Rehimena phrynealis,,2,318895,Pyraloidea,Crambidae,Spilomelinae,,,Rehimena
+345,Pycnarmon cribrata,,2,203104,Pyraloidea,Crambidae,Spilomelinae,,,Pycnarmon
+346,Pycnarmon alboflavalis,,2,625956,Pyraloidea,Crambidae,Spilomelinae,,,Pycnarmon
+347,Ptychopseustis plumbeolinealis,,2,337838,Pyraloidea,Crambidae,Cybalomiinae,,,Ptychopseustis
+348,Ptisciana seminivea,,2,489091,Noctuoidea,Nolidae,,,,Ptisciana
+349,Pterocyclophora pictimargo,,2,635461,Noctuoidea,Erebidae,Erebinae,Sypnini,,Pterocyclophora
+350,Pseudocatharylla nigrociliella,,2,873818,Pyraloidea,Crambidae,Crambinae,Crambini,,Pseudocatharylla
+351,Problepsis vulgaris,,2,121887,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Problepsis
+352,Pomasia sparsata,,2,1103444,Geometroidea,Geometridae,Larentiinae,Eupitheciini,,Pomasia
+353,Phyllodes consobrina,,2,519890,Noctuoidea,Erebidae,Calpinae,Phyllodini,,Phyllodes
+354,Palpita vitrealis,Jasmine Moth,2,336922,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Palpita
+355,Padenia transversa,,2,424824,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Cisthenina,Padenia
+356,Pachynoa xanthochyta,,2,800890,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Pachynoa
+357,Omiodes analis,,2,124868,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Omiodes
+358,Olepa ocellifera,,2,203894,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Olepa
+359,Noorda blitealis,,2,503434,Pyraloidea,Crambidae,Glaphyriinae,,,Noorda
+360,Miltochrista arcuata,,2,985194,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Miltochrista
+361,Mecodina albodentata,,2,496571,Noctuoidea,Erebidae,Aganainae,,,Mecodina
+362,Mecodina agrestis,,2,359264,Noctuoidea,Erebidae,Aganainae,,,Mecodina
+363,Macroglossum gyrans,,2,199457,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Macroglossina,Macroglossum
+364,Lysimelia alstoni,,2,424799,Noctuoidea,Erebidae,Herminiinae,,,Lysimelia
+365,Lophophleps purpurea,,2,320818,Geometroidea,Geometridae,Sterrhinae,Sterrhini,,Lophophleps
+366,Lissoblemma lunuliferata,,2,951172,Geometroidea,Geometridae,Sterrhinae,Lissoblemmini,,Lissoblemma
+367,Lebeda nobilis,,2,155509,Lasiocampoidea,Lasiocampidae,Lasiocampinae,Pinarini,,Lebeda
+368,Labdia semicoccinea,,2,371511,Gelechioidea,Cosmopterigidae,Cosmopteriginae,,,Labdia
+369,Ischnurges gratiosalis,,2,203100,Pyraloidea,Crambidae,Spilomelinae,,,Ischnurges
+370,Idaea costiguttata,,2,126722,Geometroidea,Geometridae,Sterrhinae,Sterrhini,,Idaea
+371,Idaea amplipennis,,2,860904,Geometroidea,Geometridae,Sterrhinae,Sterrhini,,Idaea
+372,Hypena laceratalis,Lantana Defoliator,2,202242,Noctuoidea,Erebidae,Hypeninae,,,Hypena
+373,Horisme leprosa,,2,635381,Geometroidea,Geometridae,Larentiinae,Eupitheciini,,Horisme
+374,Hodebertia testalis,,2,711646,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Hodebertia
+375,Histia flabellicornis,,2,202782,Zygaenoidea,Zygaenidae,Chalcosiinae,,,Histia
+376,Hipoepa biasalis,,2,495868,Noctuoidea,Erebidae,Herminiinae,,,Hipoepa
+377,Herpetogramma phaeopteralis,Dusky Herpetogramma Moth,2,330489,Pyraloidea,Crambidae,Spilomelinae,Herpetogrammatini,,Herpetogramma
+378,Herpetogramma bipunctalis,Southern Beet Webworm Moth,2,330488,Pyraloidea,Crambidae,Spilomelinae,Herpetogrammatini,,Herpetogramma
+379,Hendecasis duplifascialis,Jasmine bud worm (moth),2,244564,Pyraloidea,Crambidae,Cybalomiinae,,,Hendecasis
+380,Gonodontis clelia,,2,524135,Geometroidea,Geometridae,Ennominae,Gonodontini,,Gonodontis
+381,Gabala polyspilalis,,2,918922,Noctuoidea,Nolidae,Chloephorinae,Ariolicini,,Gabala
+382,Eupterote undata,Monkey Moth,2,563430,Bombycoidea,Eupterotidae,Eupterotinae,,,Eupterote
+383,Eupterote fabia,,2,946474,Bombycoidea,Eupterotidae,Eupterotinae,,,Eupterote
+384,Eupterote bifasciata,,2,633322,Bombycoidea,Eupterotidae,Eupterotinae,,,Eupterote
+385,Eublemma roseana,,2,475445,Noctuoidea,Erebidae,Boletobiinae,Eublemmini,,Eublemma
+386,Episothalma robustaria,,2,787794,Geometroidea,Geometridae,Geometrinae,Hemitheini,,Episothalma
+387,Epiplema fulvilinea,,2,416414,Geometroidea,Uraniidae,Epipleminae,,,Epiplema
+388,Entomogramma fautrix,,2,203053,Noctuoidea,Erebidae,Erebinae,Catocalini,,Entomogramma
+389,Elophila difflualis,,2,416517,Pyraloidea,Crambidae,Acentropinae,,,Elophila
+390,Dysphania palmyra,,2,203834,Geometroidea,Geometridae,Geometrinae,Dysphaniini,,Dysphania
+391,Dysallacta negatalis,,2,539055,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Dysallacta
+392,Dysaethria quadricaudata,,2,461177,Geometroidea,Uraniidae,Epipleminae,,,Dysaethria
+393,Dolbina manjunatha,,2,1126053,Bombycoidea,Sphingidae,Sphinginae,Sphingulini,,Dolbina
+394,Diomea lignicolora,,2,906092,Noctuoidea,Erebidae,Boletobiinae,Boletobiini,,Diomea
+395,Dichromia pullata,,2,708073,Noctuoidea,Erebidae,Hypeninae,,,Dichromia
+396,Dichromia laesalis,,2,857051,Noctuoidea,Erebidae,Hypeninae,,,Dichromia
+397,Cyana linatula,,2,1038765,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Cyana
+398,Cyana bhatejai,,2,956102,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Cyana
+399,Ctenoplusia albostriata,Eastern Streaked Plusia,2,202787,Noctuoidea,Noctuidae,Plusiinae,Argyrogrammatini,,Ctenoplusia
+400,Creatonotos gangis,Baphomet Moth,2,199441,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Creatonotos
+401,Corymica deducta,,2,362054,Geometroidea,Geometridae,Ennominae,Hypochrosini,,Corymica
+402,Comibaena cassidara,,2,201671,Geometroidea,Geometridae,Geometrinae,Comibaenini,,Comibaena
+403,Cnaphalocrocis patnalis,,2,325753,Pyraloidea,Crambidae,Spilomelinae,Spilomelini,,Cnaphalocrocis
+404,Cirrhochrista fumipalpis,,2,244055,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Cirrhochrista
+405,Cirrhochrista brizoalis,,2,334906,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Cirrhochrista
+406,Chrysocraspeda abhadraca,,2,203971,Geometroidea,Geometridae,Sterrhinae,Cosymbiini,,Chrysocraspeda
+407,Chlorozancla falcatus,,2,855347,Geometroidea,Geometridae,Geometrinae,,,Chlorozancla
+408,Chiasmia perfusaria,,2,447175,Geometroidea,Geometridae,Ennominae,Macariini,,Chiasmia
+409,Cephonodes hylas,Pellucid Hawkmoth,2,121833,Bombycoidea,Sphingidae,Macroglossinae,Dilophonotini,Hemarina,Cephonodes
+410,Casama vilis,,2,912469,Noctuoidea,Erebidae,Lymantriinae,,,Casama
+411,Calonola ectrocta,,2,1137823,Noctuoidea,Nolidae,Nolinae,Nolini,,Calonola
+412,Callopistria rivularis,,2,503139,Noctuoidea,Noctuidae,Eriopinae,,,Callopistria
+413,Callopistria minor,,2,1116385,Noctuoidea,Noctuidae,Eriopinae,,,Callopistria
+414,Britha biguttata,,2,545351,Noctuoidea,Erebidae,Hypeninae,,,Britha
+415,Botyodes asialis,,2,203828,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Botyodes
+416,Bacotoma violata,,2,902107,Pyraloidea,Crambidae,Spilomelinae,,,Bacotoma
+417,Avatha bubo,,2,355559,Noctuoidea,Erebidae,Erebinae,Cocytiini,,Avatha
+418,Astygisa vexillaria,,2,538781,Geometroidea,Geometridae,Ennominae,Caberini,,Astygisa
+419,Asota producta,,2,202260,Noctuoidea,Erebidae,Aganainae,,,Asota
+420,Arsacia rectalis,,2,200148,Noctuoidea,Erebidae,,,,Arsacia
+421,Arippara indicator,,2,460892,Pyraloidea,Pyralidae,Pyralinae,Pyralini,,Arippara
+422,Argyrocosma inductaria,,2,344764,Geometroidea,Geometridae,Geometrinae,Comibaenini,,Argyrocosma
+423,Amyna stricta,Eight-spot Moth,2,514851,Noctuoidea,Noctuidae,Bagisarinae,,,Amyna
+424,Amblychia hymenaria,,2,125161,Geometroidea,Geometridae,Ennominae,Boarmiini,,Amblychia
+425,Amata elongata,,2,1114334,Noctuoidea,Erebidae,Arctiinae,Syntomini,,Amata
+426,Altha subnotata,,2,124668,Zygaenoidea,Limacodidae,Limacodinae,,,Altha
+427,Almonia truncatalis,,2,1148243,Pyraloidea,Crambidae,Spilomelinae,,,Almonia
+428,Aegocera venulia,Red Masked Noctuid moth,2,349216,Noctuoidea,Noctuidae,Agaristinae,,,Aegocera
+429,Adites pseudohilaris,,2,802827,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Adites
+430,Actias keralana,,2,1124897,Bombycoidea,Saturniidae,Saturniinae,Saturniini,,Actias
+431,Acropteris striataria,,2,919383,Geometroidea,Uraniidae,Microniinae,,,Acropteris
+432,Zitha torridalis,,1,338550,Pyraloidea,Pyralidae,Pyralinae,Pyralini,,Zitha
+433,Zitha tactilis,,1,1152672,Pyraloidea,Pyralidae,Pyralinae,Pyralini,,Zitha
+434,Ziridava xylinaria,,1,205286,Geometroidea,Geometridae,Larentiinae,,,Ziridava
+435,Zamarada excisa,,1,125222,Geometroidea,Geometridae,Ennominae,Cassymini,,Zamarada
+436,Xenotrachea albidisca,,1,516748,Noctuoidea,Noctuidae,Noctuinae,Xylenini,,Xenotrachea
+437,Volobilis chloropterella,,1,909376,Pyraloidea,Pyralidae,Phycitinae,Phycitini,,Volobilis
+438,Vitessa suradeva,,1,461126,Pyraloidea,Pyralidae,Pyralinae,Pyralini,,Vitessa
+439,Uresiphita gilvata,Wandering Sunset,1,430206,Pyraloidea,Crambidae,Pyraustinae,,,Uresiphita
+440,Tonica niviferana,,1,371468,Gelechioidea,Oecophoridae,,,,Tonica
+441,Timandra convectaria,,1,423926,Geometroidea,Geometridae,Sterrhinae,Timandrini,,Timandra
+442,Thysanoplusia orichalcea,Slender Burnished Brass,1,124890,Noctuoidea,Noctuidae,Plusiinae,Argyrogrammatini,,Thysanoplusia
+443,Thysanoidma octalis,,1,912931,Pyraloidea,Crambidae,Musotiminae,,,Thysanoidma
+444,Theretra alecto,Levant Hawkmoth,1,319505,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Choerocampina,Theretra
+445,Tephriopis divulsa,,1,335497,Noctuoidea,Erebidae,Anobinae,,,Tephriopis
+446,Tarsolepis rufobrunnea,,1,1020068,Noctuoidea,Notodontidae,Dudusinae,,,Tarsolepis
+447,Targalla albiceps,,1,202816,Noctuoidea,Euteliidae,Euteliinae,,,Targalla
+448,Tabidia aculealis,,1,474560,Pyraloidea,Crambidae,Spilomelinae,,,Tabidia
+449,Syngamia falsidicalis,,1,124787,Pyraloidea,Crambidae,Spilomelinae,Nomophilini,,Syngamia
+450,Symmacra solidaria,,1,801026,Geometroidea,Geometridae,Sterrhinae,Cyllopodini,,Symmacra
+451,Syllepte sellalis,,1,337033,Pyraloidea,Crambidae,Spilomelinae,,,Syllepte
+452,Syllepte abyssalis,,1,1125558,Pyraloidea,Crambidae,Spilomelinae,,,Syllepte
+453,Suana concolor,,1,124934,Lasiocampoidea,Lasiocampidae,Lasiocampinae,Pinarini,,Suana
+454,Stauropus thiaucourti,,1,1259413,Noctuoidea,Notodontidae,Notodontinae,Stauropini,,Stauropus
+455,Stauropus fagi,Lobster moth,1,451846,Noctuoidea,Notodontidae,Notodontinae,Stauropini,,Stauropus
+456,Spilosoma lutea,Buff Ermine,1,61855,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Spilosoma
+457,Sphragifera rejecta,,1,318791,Noctuoidea,Noctuidae,Bagisarinae,,,Sphragifera
+458,Sphenarches zanclistes,,1,465332,Pterophoroidea,Pterophoridae,Pterophorinae,Oxyptilini,,Sphenarches
+459,Speiredonia mutabilis,,1,347264,Noctuoidea,Erebidae,Erebinae,Hulodini,,Speiredonia
+460,Spaniocentra pannosa,,1,787525,Geometroidea,Geometridae,Geometrinae,,,Spaniocentra
+461,Sommeria insulana,,1,914535,Noctuoidea,Erebidae,Aganainae,,,Sommeria
+462,Somatina anthophilata,,1,324609,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Somatina
+463,Serrodes partita,Catapult Moth,1,518637,Noctuoidea,Erebidae,Erebinae,Cocytiini,,Serrodes
+464,Selepa celtis,,1,371206,Noctuoidea,Nolidae,Eligminae,,,Selepa
+465,Secusio strigata,,1,567404,Noctuoidea,Erebidae,Arctiinae,Arctiini,Callimorphina,Secusio
+466,Scopula deliciosaria,,1,1077165,Geometroidea,Geometridae,Sterrhinae,Scopulini,,Scopula
+467,Savara pallidapex,,1,883813,Noctuoidea,Erebidae,Scoliopteryginae,Scoliopterygini,,Savara
+468,Sauris malaca,,1,494274,Geometroidea,Geometridae,Larentiinae,Trichopterygini,,Sauris
+469,Sangatissa subcurvifera,,1,1013531,Bombycoidea,Eupterotidae,,,,Sangatissa
+470,Ruttellerona pseudocessaria,,1,124256,Geometroidea,Geometridae,Ennominae,Boarmiini,,Ruttellerona
+471,Ruttellerona cessaria,,1,878525,Geometroidea,Geometridae,Ennominae,Boarmiini,,Ruttellerona
+472,Rusicada combinans,,1,558163,Noctuoidea,Erebidae,Scoliopteryginae,Anomini,,Rusicada
+473,Rosama auritracta,,1,244115,Noctuoidea,Notodontidae,Spataliinae,Spataliini,,Rosama
+474,Risoba repugnans,,1,631525,Noctuoidea,Nolidae,Risobinae,,,Risoba
+475,Rhombophylla rectimarginata,,1,873944,Geometroidea,Uraniidae,Epipleminae,,,Rhombophylla
+476,Ramadasa pavo,,1,204809,Noctuoidea,Noctuidae,Bagisarinae,,,Ramadasa
+477,Rajendra perrottetii,,1,855334,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Rajendra
+478,Racotis keralaria,,1,1239164,Geometroidea,Geometridae,Ennominae,Boarmiini,,Racotis
+479,Pyralis pictalis,Painted Meal Moth,1,124756,Pyraloidea,Pyralidae,Pyralinae,Pyralini,,Pyralis
+480,Psilalcis breta,,1,706603,Geometroidea,Geometridae,Ennominae,Boarmiini,,Psilalcis
+481,Psilalcis bisinuata,,1,968933,Geometroidea,Geometridae,Ennominae,Boarmiini,,Psilalcis
+482,Protuliocnemis biplagiata,,1,244733,Geometroidea,Geometridae,Geometrinae,Comibaenini,,Protuliocnemis
+483,Polynesia sunandava,,1,461130,Geometroidea,Geometridae,Larentiinae,Eupitheciini,,Polynesia
+484,Polydesma boarmoides,,1,244072,Noctuoidea,Erebidae,Erebinae,Pandesmini,,Polydesma
+485,Plecoptera quaesita,,1,775881,Noctuoidea,Erebidae,Anobinae,,,Plecoptera
+486,Platyja ciacula,,1,372666,Noctuoidea,Erebidae,Erebinae,,,Platyja
+487,Platycerota vitticostata,,1,243610,Geometroidea,Geometridae,Ennominae,Baptini,,Platycerota
+488,Pingasa ruginaria,,1,199157,Geometroidea,Geometridae,Geometrinae,Pseudoterpnini,,Pingasa
+489,Pindara illibata,,1,340847,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Pindara
+490,Pilocrocis milvinalis,,1,480117,Pyraloidea,Crambidae,Spilomelinae,Herpetogrammatini,,Pilocrocis
+491,Picrostomastis subrosealis,,1,417700,Thyridoidea,Thyrididae,Siculodinae,,,Picrostomastis
+492,Phazaca leucocera,,1,470644,Geometroidea,Uraniidae,Epipleminae,,,Phazaca
+493,Phalera grotei,Grote's Buff-tip,1,124292,Noctuoidea,Notodontidae,Phalerinae,,,Phalera
+494,Petelia distracta,,1,712184,Geometroidea,Geometridae,Ennominae,Caberini,,Petelia
+495,Perixera illepidaria,,1,203950,Geometroidea,Geometridae,Sterrhinae,Cosymbiini,,Perixera
+496,Perixera decretarioides,,1,203947,Geometroidea,Geometridae,Sterrhinae,Cosymbiini,,Perixera
+497,Parapoynx diminutalis,Hydrilla Leafcutter Moth,1,205731,Pyraloidea,Crambidae,Acentropinae,,,Parapoynx
+498,Parapoynx crisonalis,,1,522970,Pyraloidea,Crambidae,Acentropinae,,,Parapoynx
+499,Paracymoriza vagalis,,1,121889,Pyraloidea,Crambidae,Acentropinae,,,Paracymoriza
+500,Paracymoriza olivalis,,1,1125181,Pyraloidea,Crambidae,Acentropinae,,,Paracymoriza
+501,Pantana substrigosa,,1,1198097,Noctuoidea,Erebidae,Lymantriinae,Orgyiini,,Pantana
+502,Palpita annulifer,,1,176116,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Palpita
+503,Ozola minor,,1,343791,Geometroidea,Geometridae,Desmobathrinae,,,Ozola
+504,Oxyodes scrobiculata,Longan Semi-looper,1,205289,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Oxyodes
+505,Oxaenanus brontesalis,,1,703642,Noctuoidea,Erebidae,Herminiinae,,,Oxaenanus
+506,Orvasca bicolor,,1,564339,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Orvasca
+507,Orthaga exvinacea,,1,708416,Pyraloidea,Pyralidae,Epipaschiinae,,,Orthaga
+508,Orphanostigma abruptalis,,1,244883,Pyraloidea,Crambidae,Spilomelinae,Spilomelini,,Orphanostigma
+509,Oreta extensa,,1,210963,Drepanoidea,Drepanidae,Oretinae,Oretini,,Oreta
+510,Ophthalmitis caritaria,,1,124239,Geometroidea,Geometridae,Ennominae,Boarmiini,,Ophthalmitis
+511,Omphisa repetitalis,,1,701957,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Omphisa
+512,Olepa clavatus,Olepa Moth,1,203893,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Olepa
+513,Olene dudgeoni,,1,632481,Noctuoidea,Erebidae,Lymantriinae,Orgyiini,,Olene
+514,Oenospila flavifusata,,1,630910,Geometroidea,Geometridae,Geometrinae,,,Oenospila
+515,Ocinara albicollis,,1,319474,Bombycoidea,Bombycidae,Bombycinae,,,Ocinara
+516,Nygmia plana,Yellow Tussok Moth,1,201821,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Nygmia
+517,Nyctemera hampsoni,,1,974730,Noctuoidea,Erebidae,Arctiinae,Arctiini,Pericopina,Nyctemera
+518,Nosophora dispilalis,,1,901111,Pyraloidea,Crambidae,Spilomelinae,Agroterini,,Nosophora
+519,Nolasena ferrifervens,,1,320639,Noctuoidea,Erebidae,Hypeninae,,,Nolasena
+520,Noctuelia dichroalis,,1,776800,Pyraloidea,Crambidae,Odontiinae,Odontiini,,Noctuelia
+521,Neochera inops,,1,124039,Noctuoidea,Erebidae,Aganainae,,,Neochera
+522,Negeta contrariata,,1,362713,Noctuoidea,Nolidae,Westermanniinae,,,Negeta
+523,Musotima suffusalis,,1,321674,Pyraloidea,Crambidae,Musotiminae,,,Musotima
+524,Mosara apicalis,,1,465435,Noctuoidea,Noctuidae,Aediinae,,,Mosara
+525,Miltochrista conjunctana,,1,985205,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Miltochrista
+526,Microloxia indecretata,,1,829759,Geometroidea,Geometridae,Geometrinae,Hemitheini,,Microloxia
+527,Microloxia herbaria,,1,467232,Geometroidea,Geometridae,Geometrinae,Hemitheini,,Microloxia
+528,Metanastria hyrtaca,Hairy Caterpillar,1,318438,Lasiocampoidea,Lasiocampidae,Lasiocampinae,Pinarini,,Metanastria
+529,Mecodina diastriga,,1,497028,Noctuoidea,Erebidae,Aganainae,,,Mecodina
+530,Maurilia iconica,,1,519469,Noctuoidea,Nolidae,Chloephorinae,Careini,,Maurilia
+531,Massepha absolutalis,,1,735826,Pyraloidea,Crambidae,Spilomelinae,,,Massepha
+532,Maruca amboinalis,,1,509801,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Maruca
+533,Maliattha ruptifascia,,1,703248,Noctuoidea,Noctuidae,Eustrotiinae,,,Maliattha
+534,Maguda suffusa,,1,324091,Noctuoidea,Erebidae,Boletobiinae,Boletobiini,,Maguda
+535,Macroglossum particolor,Cinereous Hummingbird Hawkmoth,1,541801,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Macroglossina,Macroglossum
+536,Macroglossum neotroglodytus,Purple Dwarf Hummingbird Hawk Moth,1,541471,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Macroglossina,Macroglossum
+537,Macotasa orientalis,,1,928295,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Lithosiina,Macotasa
+538,Lymantria todara,,1,878417,Noctuoidea,Erebidae,Lymantriinae,Lymantriini,,Lymantria
+539,Lymantria monacha,Black Arches,1,224214,Noctuoidea,Erebidae,Lymantriinae,Lymantriini,,Lymantria
+540,Lymantria mathura,Rosy Lymantria,1,55246,Noctuoidea,Erebidae,Lymantriinae,Lymantriini,,Lymantria
+541,Lymantria incerta,,1,602324,Noctuoidea,Erebidae,Lymantriinae,Lymantriini,,Lymantria
+542,Lymantria dispar,LD Moth,1,47802,Noctuoidea,Erebidae,Lymantriinae,Lymantriini,,Lymantria
+543,Lymantria aryama,,1,630874,Noctuoidea,Erebidae,Lymantriinae,Lymantriini,,Lymantria
+544,Lygropia distorta,,1,904452,Pyraloidea,Crambidae,Spilomelinae,Agroterini,,Lygropia
+545,Lophophelma luteipes,,1,194583,Geometroidea,Geometridae,Geometrinae,Pseudoterpnini,,Lophophelma
+546,Lomographa inamata,,1,153199,Geometroidea,Geometridae,Ennominae,Baptini,,Lomographa
+547,Loepa katinka,Golden Emperor Moth,1,124687,Bombycoidea,Saturniidae,Saturniinae,Saturniini,,Loepa
+548,Leucophlebia lineata,,1,479682,Bombycoidea,Sphingidae,Smerinthinae,Smerinthini,,Leucophlebia
+549,Lamprosema commixta,,1,125246,Pyraloidea,Crambidae,Spilomelinae,Hydririni,,Lamprosema
+550,Lacera procellosa,,1,335020,Noctuoidea,Erebidae,Erebinae,Hulodini,,Lacera
+551,Lacera noctilio,,1,355437,Noctuoidea,Erebidae,Erebinae,Hulodini,,Lacera
+552,Ischyja manlia,Blue Striped Moth,1,196579,Noctuoidea,Erebidae,Erebinae,,,Ischyja
+553,Imma marmarozona,,1,1264574,Immoidea,Immidae,,,,Imma
+554,Imma mackwoodii,,1,1116744,Immoidea,Immidae,,,,Imma
+555,Idaea violacea,,1,801439,Geometroidea,Geometridae,Sterrhinae,Sterrhini,,Idaea
+556,Idaea micra,,1,888372,Geometroidea,Geometridae,Sterrhinae,Sterrhini,,Idaea
+557,Hypsopygia nigrivitta,,1,778243,Pyraloidea,Pyralidae,Pyralinae,Pyralini,,Hypsopygia
+558,Hyposidra violescens,,1,516923,Geometroidea,Geometridae,Ennominae,Boarmiini,,Hyposidra
+559,Hyposada hydrocampata,,1,554644,Noctuoidea,Erebidae,Boletobiinae,Eublemmini,,Hyposada
+560,Hypena sagitta,,1,876859,Noctuoidea,Erebidae,Hypeninae,,,Hypena
+561,Hypena palparia,Mottled Snout,1,221969,Noctuoidea,Erebidae,Hypeninae,,,Hypena
+562,Hypena lividalis,,1,330417,Noctuoidea,Erebidae,Hypeninae,,,Hypena
+563,Hypena conscitalis,,1,428872,Noctuoidea,Erebidae,Hypeninae,,,Hypena
+564,Homona coffearia,,1,371607,Tortricoidea,Tortricidae,Tortricinae,Archipini,,Homona
+565,Homodes vivida,,1,803896,Noctuoidea,Erebidae,Boletobiinae,,,Homodes
+566,Homodes crocea,,1,518640,Noctuoidea,Erebidae,Boletobiinae,,,Homodes
+567,Hipoepa fractalis,,1,321988,Noctuoidea,Erebidae,Herminiinae,,,Hipoepa
+568,Herpetogramma cynaralis,,1,208030,Pyraloidea,Crambidae,Spilomelinae,Herpetogrammatini,,Herpetogramma
+569,Herpetogramma basalis,,1,423540,Pyraloidea,Crambidae,Spilomelinae,Herpetogrammatini,,Herpetogramma
+570,Hemithea wuka,,1,425354,Geometroidea,Geometridae,Geometrinae,Hemitheini,,Hemithea
+571,Heliothis peltigera,The Bordered Straw,1,347024,Noctuoidea,Noctuidae,Heliothinae,,,Heliothis
+572,Helicoverpa assulta,Cape Gooseberry Budworm,1,368830,Noctuoidea,Noctuidae,Heliothinae,,,Helicoverpa
+573,Hamodes propitia,,1,556417,Noctuoidea,Erebidae,Erebinae,Acantholipini,,Hamodes
+574,Grammodes geometrica,,1,52049,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Grammodes
+575,Gonodontis pallida,,1,371635,Geometroidea,Geometridae,Ennominae,Gonodontini,,Gonodontis
+576,Gastropacha pardale,,1,202838,Lasiocampoidea,Lasiocampidae,Lasiocampinae,Gastropachini,,Gastropacha
+577,Gampola fasciata,,1,318852,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Lithosiina,Gampola
+578,Galleria mellonella,Greater Wax Moth,1,122940,Pyraloidea,Pyralidae,Galleriinae,Galleriini,,Galleria
+579,Evomina plagiola,,1,1205727,Noctuoidea,Nolidae,Nolinae,,,Evonima
+580,Euthrix laeta,,1,347898,Lasiocampoidea,Lasiocampidae,Lasiocampinae,Selenepherini,,Euthrix
+581,Eupterote mollifera,,1,633323,Bombycoidea,Eupterotidae,Eupterotinae,,,Eupterote
+582,Euproctis lunata,,1,1116567,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Euproctis
+583,Eumeta variegata,Paulownia Bagworm Moth,1,324309,Tineoidea,Psychidae,Oiketicinae,,,Eumeta
+584,Eudocima cocalus,,1,134096,Noctuoidea,Erebidae,Calpinae,Ophiderini,,Eudocima
+585,Eucyclodes picturata,,1,964240,Geometroidea,Geometridae,Geometrinae,Nemoriini,,Eucyclodes
+586,Eublemma versicolor,,1,428752,Noctuoidea,Erebidae,Boletobiinae,Eublemmini,,Eublemma
+587,Eublemma semirufa,,1,705258,Noctuoidea,Erebidae,Boletobiinae,Eublemmini,,Eublemma
+588,Eublemma roseonivea,,1,202111,Noctuoidea,Erebidae,Boletobiinae,Eublemmini,,Eublemma
+589,Eublemma dimidialis,,1,203140,Noctuoidea,Erebidae,Boletobiinae,Eublemmini,,Eublemma
+590,Ericeia pertendens,,1,355443,Noctuoidea,Erebidae,Erebinae,Hulodini,,Ericeia
+591,Episteme latimargo,,1,1250314,Noctuoidea,Noctuidae,Agaristinae,,,Episteme
+592,Eois memorata,,1,627351,Geometroidea,Geometridae,Larentiinae,Asthenini,,Eois
+593,Eois grataria,,1,423746,Geometroidea,Geometridae,Larentiinae,Asthenini,,Eois
+594,Emmelina monodactyla,Morning-glory Plume Moth,1,127431,Pterophoroidea,Pterophoridae,Pterophorinae,Oidaematophorini,,Emmelina
+595,Ecliptopera dissecta,,1,625704,Geometroidea,Geometridae,Larentiinae,,,Ecliptopera
+596,Dysgonia torrida,Jigsaw,1,344822,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Dysgonia
+597,Dysgonia algira,The Passenger,1,199266,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Dysgonia
+598,Doloessa viridis,,1,124043,Pyraloidea,Pyralidae,Galleriinae,Tirathabini,,Doloessa
+599,Dierna strigata,,1,705907,Noctuoidea,Erebidae,Calpinae,Calpini,,Dierna
+600,Delgamma pangonia,,1,430152,Noctuoidea,Erebidae,Erebinae,,,Delgamma
+601,Dasyboarmia delineata,,1,243475,Geometroidea,Geometridae,Ennominae,Boarmiini,,Dasyboarmia
+602,Daphnis minima,,1,1134181,Bombycoidea,Sphingidae,Macroglossinae,Macroglossini,Macroglossina,Daphnis
+603,Cydalima laticostalis,,1,124802,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Cydalima
+604,Cyclophora obstataria,,1,518832,Geometroidea,Geometridae,Sterrhinae,Cosymbiini,,Cyclophora
+605,Cyclophora intermixtaria,,1,706544,Geometroidea,Geometridae,Sterrhinae,Cosymbiini,,Cyclophora
+606,Cyana subornata,,1,803348,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Cyana
+607,Ctenoplusia tarassota,,1,855984,Noctuoidea,Noctuidae,Plusiinae,Argyrogrammatini,,Ctenoplusia
+608,Crocidosema plebejana,Cotton Tipworm Moth,1,330517,Tortricoidea,Tortricidae,Olethreutinae,Eucosmini,,Crocidosema
+609,Crocidolomia pavonana,Cabbage Cluster Caterpillar,1,124587,Pyraloidea,Crambidae,Glaphyriinae,,,Crocidolomia
+610,Cricula andrei,,1,333592,Bombycoidea,Saturniidae,Saturniinae,Saturniini,,Cricula
+611,Condica conducta,,1,450182,Noctuoidea,Noctuidae,Condicinae,Condicini,,Condica
+612,Comostola subtiliaria,,1,354884,Geometroidea,Geometridae,Geometrinae,Hemitheini,,Comostola
+613,Collinsa acutalis,,1,1104375,Thyridoidea,Thyrididae,Siculodinae,,,Collinsa
+614,Coconympha iriarcha,,1,1147619,Gelechioidea,Gelechiidae,,,,Coconympha
+615,Cleora contiguata,,1,632285,Geometroidea,Geometridae,Ennominae,Boarmiini,,Cleora
+616,Cleora acaciaria,,1,704794,Geometroidea,Geometridae,Ennominae,Boarmiini,,Cleora
+617,Chrioloba indicaria,,1,1105914,Geometroidea,Geometridae,Larentiinae,Trichopterygini,,Chrioloba
+618,Choreutis ophiosema,,1,371621,Choreutoidea,Choreutidae,Choreutinae,,,Choreutis
+619,Chlorochaeta integranota,,1,1103809,Geometroidea,Geometridae,Geometrinae,Comibaenini,,Comibaena
+620,Chiasmia fidoniata,,1,700201,Geometroidea,Geometridae,Ennominae,Macariini,,Chiasmia
+621,Cheromettia apicata,,1,510180,Zygaenoidea,Limacodidae,Limacodinae,,,Cheromettia
+622,Chasmina fasciculosa,,1,201658,Noctuoidea,Noctuidae,Bagisarinae,,,Chasmina
+623,Chalcidica mineus,,1,872050,Cossoidea,Cossidae,Zeuzerinae,,,Chalcidica
+624,Chadisra bipars,,1,626760,Noctuoidea,Notodontidae,Periergosinae,,,Chadisra
+625,Catoria sublavaria,,1,426205,Geometroidea,Geometridae,Ennominae,Boarmiini,,Catoria
+626,Catephia linteola,,1,355452,Noctuoidea,Erebidae,Erebinae,Catephiini,,Catephia
+627,Cassephyra lamprosticta,,1,794362,Geometroidea,Geometridae,Ennominae,,,Cassephyra
+628,Carriola fenestrata,,1,495175,Noctuoidea,Erebidae,Lymantriinae,Arctornithini,,Carriola
+629,Cania bilinea,,1,332412,Zygaenoidea,Limacodidae,Limacodinae,,,Cania
+630,Callyna monoleuca,,1,630721,Noctuoidea,Noctuidae,Noctuinae,Dypterygiini,,Callyna
+631,Callyna jugaria,,1,714858,Noctuoidea,Noctuidae,Noctuinae,Dypterygiini,,Callyna
+632,Callopistria maillardi,White Tangle,1,387022,Noctuoidea,Noctuidae,Eriopinae,,,Callopistria
+633,Calletaera subexpressa,,1,550212,Geometroidea,Geometridae,Ennominae,Eutoeini,,Calletaera
+634,Calesia haemorrhoa,,1,209747,Noctuoidea,Erebidae,Tinoliinae,,,Calesia
+635,Calesia dasypterus,,1,125465,Noctuoidea,Erebidae,Tinoliinae,,,Calesia
+636,Caduca albopunctata,,1,367073,Noctuoidea,Erebidae,Boletobiinae,Boletobiini,,Caduca
+637,Brithys crini,Lily Borer,1,132092,Noctuoidea,Noctuidae,Noctuinae,Glottulini,,Brithys
+638,Bosara albitornalis,,1,199665,Geometroidea,Geometridae,Larentiinae,Eupitheciini,,Bosara
+639,Bocula diffisa,,1,497119,Noctuoidea,Erebidae,Rivulinae,,,Bocula
+640,Boarmia pallida,,1,920051,Geometroidea,Geometridae,Ennominae,Boarmiini,,Boarmia
+641,Boarmia adamata,,1,847490,Geometroidea,Geometridae,Ennominae,Boarmiini,,Boarmia
+642,Blasticorhinus rivulosa,,1,202986,Noctuoidea,Erebidae,,,,Blasticorhinus
+643,Belippa horrida,,1,622340,Zygaenoidea,Limacodidae,Limacodinae,,,Belippa
+644,Beara dichromella,,1,1153049,Noctuoidea,Nolidae,Chloephorinae,,,Beara
+645,Beana terminigera,,1,701512,Noctuoidea,Nolidae,Beaninae,,,Beana
+646,Batracharta obliqua,,1,1013304,Noctuoidea,Erebidae,,,,Batracharta
+647,Banisia myrsusalis,Sapodilla Borer Moth,1,196987,Thyridoidea,Thyrididae,Striglininae,,,Banisia
+648,Bamra mundata,,1,338137,Noctuoidea,Erebidae,Erebinae,,,Bamra
+649,Bagada spicea,,1,1116861,Noctuoidea,Noctuidae,Noctuinae,,,Bagada
+650,Asura metamelas,,1,1138759,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Asura
+651,Asura congerens,,1,872628,Noctuoidea,Erebidae,Arctiinae,Lithosiini,Nudariina,Asura
+652,Aroa clara,,1,805872,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Aroa
+653,Aroa campbelli,,1,1259697,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Aroa
+654,Arna bipunctapex,,1,204736,Noctuoidea,Erebidae,Lymantriinae,Nygmiini,,Arna
+655,Argyrogramma signata,,1,637193,Noctuoidea,Noctuidae,Plusiinae,Argyrogrammatini,,Argyrogramma
+656,Arcte coerula,Ramie Moth,1,356216,Noctuoidea,Noctuidae,Dyopsinae,,,Arcte
+657,Aplochlora vivilaca,,1,700785,Geometroidea,Geometridae,Ennominae,,,Aplochlora
+658,Antimimistis cuprina,,1,574840,Geometroidea,Geometridae,Larentiinae,Eupitheciini,,Antimimistis
+659,Antimimistis attenuata,,1,516634,Geometroidea,Geometridae,Larentiinae,Eupitheciini,,Antimimistis
+660,Antheua exanthemata,,1,203916,Noctuoidea,Notodontidae,Phalerinae,,,Antheua
+661,Anisoneura aluco,,1,121904,Noctuoidea,Erebidae,Erebinae,,,Anisoneura
+662,Analyta apicalis,,1,889413,Pyraloidea,Crambidae,Spilomelinae,Margaroniini,,Analyta
+663,Amyna axis,Oriental Eight-spot,1,538966,Noctuoidea,Noctuidae,Bagisarinae,,,Amyna
+664,Altha nivea,,1,481163,Zygaenoidea,Limacodidae,Limacodinae,,,Altha
+665,Aloa cardinalis,Red Costate Tiger Moth,1,701006,Noctuoidea,Erebidae,Arctiinae,Arctiini,Spilosomina,Aloa
+666,Almonia cristata,,1,1148237,Pyraloidea,Crambidae,Spilomelinae,,,Almonia
+667,Agrotis spinifera,Gregson's Dart,1,483573,Noctuoidea,Noctuidae,Noctuinae,Noctuini,Agrotina,Agrotis
+668,Agrotera scissalis,,1,424545,Pyraloidea,Crambidae,Spilomelinae,Agroterini,,Agrotera
+669,Aglaopus industa,,1,1204604,Thyridoidea,Thyrididae,,,,Aglaopus
+670,Aergina fumosa,,1,1020070,Zygaenoidea,Limacodidae,Limacodinae,,,Aergina
+671,Adoxophyes privatana,Appleleaf-curling moth,1,204059,Tortricoidea,Tortricidae,Tortricinae,Archipini,,Adoxophyes
+672,Adisura atkinsoni,,1,647249,Noctuoidea,Noctuidae,Heliothinae,,,Adisura
+673,Addaea trimeronalis,,1,1119510,Thyridoidea,Thyrididae,,,,Addaea
+674,Acropteris ciniferaria,,1,505633,Geometroidea,Uraniidae,Microniinae,,,Acropteris
+675,Acronicta morula,Ochre Dagger,1,205211,Noctuoidea,Noctuidae,Acronictinae,,,Acronicta
+676,Acolutha pictaria,,1,244659,Geometroidea,Geometridae,Larentiinae,Asthenini,,Acolutha
+677,Achrosis fulvifusa,,1,622417,Geometroidea,Geometridae,Ennominae,Hypochrosini,,Achrosis
+678,Achaea mezentia,,1,426064,Noctuoidea,Erebidae,Erebinae,Poaphilini,,Achaea
+679,Acantholipes trajecta,,1,635463,Noctuoidea,Erebidae,Erebinae,Acantholipini,,Acantholipes
+680,Abraxas crocearia,,1,1078450,Geometroidea,Geometridae,Ennominae,Abraxini,,Abraxas
